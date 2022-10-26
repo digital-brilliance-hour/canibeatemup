@@ -3,7 +3,7 @@
 # load		[name]		[path]		// Load on startup
 # know		[name]		[path]		// Load when needed
 # 
-
+ajspecial 1
 
 # Required objects. These must always be loaded.
 load	Flash		data/chars/misc/flash.txt
@@ -62,3 +62,4 @@ know	Steamer		data/chars/misc/steamer.txt
 know	Furnace		data/chars/misc/furnace.txt
 know	Crab		data/chars/crab/crab.txt
 know	Lobster		data/chars/Lobster/Lobster.txt
+load MikeTyson data/chars/balrog/balrog.txt

@@ -1,0 +1,1969 @@
+name 
+
+
+anim 9000
+ delay 7
+ offset 0 0
+ frame data/chars/Zoro/0.gif
+ offset 0 6
+ frame data/chars/Zoro/1.gif
+ offset 356 137
+ frame data/chars/Zoro/2.gif
+ offset 0 0
+ frame data/chars/Zoro/3.gif
+ offset 0 0
+ frame data/chars/Zoro/4.gif
+
+anim idle
+ delay 7
+ offset 58 145
+ frame data/chars/Zoro/5.gif
+ offset 58 143
+ frame data/chars/Zoro/6.gif
+ offset 58 141
+ frame data/chars/Zoro/7.gif
+ offset 58 139
+ frame data/chars/Zoro/8.gif
+ offset 58 145
+ frame data/chars/Zoro/9.gif
+ offset 58 145
+ frame data/chars/Zoro/10.gif
+
+anim turn
+ delay 7
+ offset 55 169
+ frame data/chars/Zoro/11.gif
+
+anim 0010
+ delay 7
+ offset 48 134
+ frame data/chars/Zoro/12.gif
+ offset 49 125
+ frame data/chars/Zoro/13.gif
+
+anim 0011
+ delay 7
+ offset 49 126
+ frame data/chars/Zoro/14.gif
+ offset 49 126
+ frame data/chars/Zoro/15.gif
+ offset 49 126
+ frame data/chars/Zoro/16.gif
+
+anim walk
+ delay 7
+ offset 56 153
+ frame data/chars/Zoro/17.gif
+ offset 59 153
+ frame data/chars/Zoro/18.gif
+ offset 60 153
+ frame data/chars/Zoro/19.gif
+ offset 61 153
+ frame data/chars/Zoro/20.gif
+ offset 63 150
+ frame data/chars/Zoro/21.gif
+ offset 59 150
+ frame data/chars/Zoro/22.gif
+ offset 59 152
+ frame data/chars/Zoro/23.gif
+ offset 57 152
+ frame data/chars/Zoro/24.gif
+
+anim jump
+ delay 7
+ offset 51 119
+ frame data/chars/Zoro/25.gif
+ offset 82 165
+ frame data/chars/Zoro/26.gif
+ offset 81 162
+ frame data/chars/Zoro/27.gif
+ offset 25 157
+ frame data/chars/Zoro/28.gif
+ offset 46 151
+ frame data/chars/Zoro/29.gif
+ offset 49 165
+ frame data/chars/Zoro/30.gif
+ offset 43 176
+ frame data/chars/Zoro/31.gif
+ offset 46 179
+ frame data/chars/Zoro/32.gif
+ offset 44 177
+ frame data/chars/Zoro/33.gif
+ offset 53 129
+ frame data/chars/Zoro/34.gif
+
+anim run
+ delay 7
+ offset 57 99
+ frame data/chars/Zoro/35.gif
+ offset 85 122
+ frame data/chars/Zoro/36.gif
+ offset 84 121
+ frame data/chars/Zoro/37.gif
+ offset 82 119
+ frame data/chars/Zoro/38.gif
+ offset 81 121
+ frame data/chars/Zoro/39.gif
+ offset 80 122
+ frame data/chars/Zoro/40.gif
+ offset 84 118
+ frame data/chars/Zoro/41.gif
+ offset 80 96
+ frame data/chars/Zoro/42.gif
+ offset 57 111
+ frame data/chars/Zoro/43.gif
+
+anim dodge
+ delay 7
+ offset 55 121
+ frame data/chars/Zoro/44.gif
+ offset 50 152
+ frame data/chars/Zoro/45.gif
+ offset 53 166
+ frame data/chars/Zoro/46.gif
+
+anim 0110
+ delay 7
+ offset 52 142
+ frame data/chars/Zoro/47.gif
+ offset 79 106
+ frame data/chars/Zoro/48.gif
+
+anim block120
+ delay 7
+ offset 58 134
+ frame data/chars/Zoro/49.gif
+ offset 58 152
+ frame data/chars/Zoro/50.gif
+
+anim block121
+ delay 7
+ offset 49 96
+ frame data/chars/Zoro/51.gif
+ offset 49 132
+ frame data/chars/Zoro/52.gif
+
+anim block122
+ delay 7
+ offset 40 172
+ frame data/chars/Zoro/53.gif
+ offset 39 177
+ frame data/chars/Zoro/54.gif
+
+anim 0170
+ delay 7
+ offset 29 142
+ frame data/chars/Zoro/55.gif
+ offset 31 140
+ frame data/chars/Zoro/56.gif
+ offset 31 139
+ frame data/chars/Zoro/57.gif
+
+anim 0180
+ delay 7
+ offset 45 155
+ frame data/chars/Zoro/58.gif
+ offset 25 152
+ frame data/chars/Zoro/59.gif
+ offset 25 164
+ frame data/chars/Zoro/60.gif
+ offset 91 146
+ frame data/chars/Zoro/61.gif
+ offset 91 146
+ frame data/chars/Zoro/62.gif
+
+anim respawn
+ delay 7
+ offset 57 145
+ frame data/chars/Zoro/63.gif
+ offset 60 147
+ frame data/chars/Zoro/64.gif
+ offset 54 165
+ frame data/chars/Zoro/65.gif
+ offset 59 135
+ frame data/chars/Zoro/66.gif
+ offset 58 129
+ frame data/chars/Zoro/67.gif
+
+anim attack200
+ delay 7
+ offset 50 175
+ frame data/chars/Zoro/68.gif
+ offset 65 155
+ frame data/chars/Zoro/69.gif
+ offset 54 107
+ frame data/chars/Zoro/70.gif
+ offset 54 107
+ frame data/chars/Zoro/71.gif
+ offset 53 120
+ frame data/chars/Zoro/72.gif
+
+anim attack210
+ delay 7
+ offset 58 130
+ frame data/chars/Zoro/73.gif
+ offset 58 116
+ frame data/chars/Zoro/74.gif
+ offset 58 108
+ frame data/chars/Zoro/75.gif
+ offset 68 139
+ frame data/chars/Zoro/76.gif
+ offset 56 165
+ frame data/chars/Zoro/77.gif
+ offset 58 129
+ frame data/chars/Zoro/78.gif
+
+anim attack220
+ delay 7
+ offset 84 107
+ frame data/chars/Zoro/79.gif
+ offset 80 114
+ frame data/chars/Zoro/80.gif
+ offset 107 145
+ frame data/chars/Zoro/81.gif
+ offset 117 155
+ frame data/chars/Zoro/82.gif
+ offset 111 137
+ frame data/chars/Zoro/83.gif
+ offset 93 149
+ frame data/chars/Zoro/84.gif
+
+anim attack230
+ delay 7
+ offset 64 174
+ frame data/chars/Zoro/85.gif
+ offset 92 147
+ frame data/chars/Zoro/86.gif
+ offset 86 153
+ frame data/chars/Zoro/87.gif
+ offset 60 177
+ frame data/chars/Zoro/88.gif
+
+anim attack240
+ delay 7
+ offset 77 122
+ frame data/chars/Zoro/89.gif
+ offset 62 159
+ frame data/chars/Zoro/90.gif
+ offset 81 170
+ frame data/chars/Zoro/91.gif
+ offset 64 137
+ frame data/chars/Zoro/92.gif
+ offset 61 128
+ frame data/chars/Zoro/93.gif
+
+anim attack250
+ delay 7
+ offset 56 139
+ frame data/chars/Zoro/94.gif
+ offset 116 128
+ frame data/chars/Zoro/95.gif
+ offset 82 115
+ frame data/chars/Zoro/96.gif
+ offset 104 154
+ frame data/chars/Zoro/97.gif
+ offset 74 174
+ frame data/chars/Zoro/98.gif
+ offset 79 112
+ frame data/chars/Zoro/99.gif
+
+anim attack260
+ delay 7
+ offset 55 113
+ frame data/chars/Zoro/100.gif
+ offset 82 146
+ frame data/chars/Zoro/101.gif
+ offset 61 186
+ frame data/chars/Zoro/102.gif
+ offset 60 173
+ frame data/chars/Zoro/103.gif
+ offset 62 105
+ frame data/chars/Zoro/104.gif
+
+anim attack400
+ delay 7
+ offset 84 112
+ frame data/chars/Zoro/105.gif
+ offset 45 151
+ frame data/chars/Zoro/106.gif
+ offset 45 81
+ frame data/chars/Zoro/107.gif
+
+anim attack420
+ delay 7
+ offset 53 75
+ frame data/chars/Zoro/108.gif
+ offset 58 74
+ frame data/chars/Zoro/109.gif
+ offset 67 144
+ frame data/chars/Zoro/110.gif
+ offset 69 171
+ frame data/chars/Zoro/111.gif
+ offset 52 144
+ frame data/chars/Zoro/112.gif
+
+anim attack430
+ delay 7
+ offset 49 109
+ frame data/chars/Zoro/113.gif
+ offset 48 83
+ frame data/chars/Zoro/114.gif
+ offset 87 83
+ frame data/chars/Zoro/115.gif
+ offset 53 94
+ frame data/chars/Zoro/116.gif
+
+anim attack440
+ delay 7
+ offset 62 139
+ frame data/chars/Zoro/117.gif
+ offset 78 89
+ frame data/chars/Zoro/118.gif
+ offset 92 105
+ frame data/chars/Zoro/119.gif
+ offset 60 115
+ frame data/chars/Zoro/120.gif
+ offset 128 254
+ frame data/chars/Zoro/121.gif
+
+anim jumpattack600
+ delay 7
+ offset 66 170
+ frame data/chars/Zoro/122.gif
+ offset 81 167
+ frame data/chars/Zoro/123.gif
+ offset 77 172
+ frame data/chars/Zoro/124.gif
+ offset 58 148
+ frame data/chars/Zoro/125.gif
+
+anim jumpattack610
+ delay 7
+ offset 73 149
+ frame data/chars/Zoro/126.gif
+ offset 65 192
+ frame data/chars/Zoro/127.gif
+ offset 65 207
+ frame data/chars/Zoro/128.gif
+
+anim jumpattack620
+ delay 7
+ offset 70 193
+ frame data/chars/Zoro/129.gif
+ offset 41 190
+ frame data/chars/Zoro/130.gif
+ offset 104 265
+ frame data/chars/Zoro/131.gif
+ offset 81 141
+ frame data/chars/Zoro/132.gif
+ offset 77 146
+ frame data/chars/Zoro/133.gif
+
+anim jumpattack635
+ delay 7
+ offset 80 191
+ frame data/chars/Zoro/134.gif
+ offset 75 218
+ frame data/chars/Zoro/135.gif
+ offset 80 151
+ frame data/chars/Zoro/136.gif
+
+anim jumpattack650
+ delay 7
+ offset 47 175
+ frame data/chars/Zoro/137.gif
+ offset 69 180
+ frame data/chars/Zoro/138.gif
+ offset 52 178
+ frame data/chars/Zoro/139.gif
+ offset 52 180
+ frame data/chars/Zoro/140.gif
+ offset 47 167
+ frame data/chars/Zoro/141.gif
+
+anim 0801
+ delay 7
+ offset 62 115
+ frame data/chars/Zoro/142.gif
+ offset 60 127
+ frame data/chars/Zoro/143.gif
+ offset 54 150
+ frame data/chars/Zoro/144.gif
+ offset 55 146
+ frame data/chars/Zoro/145.gif
+ offset 47 87
+ frame data/chars/Zoro/146.gif
+ offset 47 91
+ frame data/chars/Zoro/147.gif
+ offset 269 62
+ frame data/chars/Zoro/148.gif
+
+anim 0851
+ delay 7
+ offset 64 142
+ frame data/chars/Zoro/149.gif
+ offset 64 142
+ frame data/chars/Zoro/150.gif
+ offset 64 142
+ frame data/chars/Zoro/151.gif
+ offset 64 142
+ frame data/chars/Zoro/152.gif
+
+anim freespecial1000
+ delay 7
+ offset 97 144
+ frame data/chars/Zoro/153.gif
+ offset 79 128
+ frame data/chars/Zoro/154.gif
+ offset 62 160
+ frame data/chars/Zoro/155.gif
+ offset 63 91
+ frame data/chars/Zoro/156.gif
+ offset 63 91
+ frame data/chars/Zoro/157.gif
+ offset 64 105
+ frame data/chars/Zoro/158.gif
+ offset 54 126
+ frame data/chars/Zoro/159.gif
+
+anim freespecial1100
+ delay 7
+ offset 65 165
+ frame data/chars/Zoro/160.gif
+ offset 75 170
+ frame data/chars/Zoro/161.gif
+ offset 78 159
+ frame data/chars/Zoro/162.gif
+ offset 72 152
+ frame data/chars/Zoro/163.gif
+ offset 74 144
+ frame data/chars/Zoro/164.gif
+ offset 74 130
+ frame data/chars/Zoro/165.gif
+ offset 61 175
+ frame data/chars/Zoro/166.gif
+
+anim freespecial1200
+ delay 7
+ offset 50 120
+ frame data/chars/Zoro/167.gif
+ offset 50 124
+ frame data/chars/Zoro/168.gif
+ offset 50 114
+ frame data/chars/Zoro/169.gif
+ offset 62 133
+ frame data/chars/Zoro/170.gif
+ offset 69 130
+ frame data/chars/Zoro/171.gif
+ offset 64 148
+ frame data/chars/Zoro/172.gif
+ offset 79 167
+ frame data/chars/Zoro/173.gif
+ offset 73 129
+ frame data/chars/Zoro/174.gif
+
+anim freespecial1300
+ delay 7
+ offset 55 162
+ frame data/chars/Zoro/175.gif
+ offset 50 168
+ frame data/chars/Zoro/176.gif
+ offset 49 163
+ frame data/chars/Zoro/177.gif
+ offset 112 152
+ frame data/chars/Zoro/178.gif
+ offset 108 176
+ frame data/chars/Zoro/179.gif
+ offset 107 144
+ frame data/chars/Zoro/180.gif
+ offset 50 120
+ frame data/chars/Zoro/181.gif
+
+anim freespecial1350
+ delay 7
+ offset 73 112
+ frame data/chars/Zoro/182.gif
+ offset 75 109
+ frame data/chars/Zoro/183.gif
+ offset 72 147
+ frame data/chars/Zoro/184.gif
+ offset 63 180
+ frame data/chars/Zoro/185.gif
+ offset 59 126
+ frame data/chars/Zoro/186.gif
+ offset 58 109
+ frame data/chars/Zoro/187.gif
+
+anim freespecial1400
+ delay 7
+ offset 82 171
+ frame data/chars/Zoro/188.gif
+ offset 83 197
+ frame data/chars/Zoro/189.gif
+ offset 83 195
+ frame data/chars/Zoro/190.gif
+
+anim freespecial3000
+ delay 7
+ offset 65 108
+ frame data/chars/Zoro/191.gif
+ offset 66 191
+ frame data/chars/Zoro/192.gif
+ offset 63 178
+ frame data/chars/Zoro/193.gif
+ offset 96 155
+ frame data/chars/Zoro/194.gif
+ offset 124 153
+ frame data/chars/Zoro/195.gif
+ offset 120 154
+ frame data/chars/Zoro/196.gif
+ offset 81 164
+ frame data/chars/Zoro/197.gif
+ offset 74 162
+ frame data/chars/Zoro/198.gif
+
+anim freespecial3100
+ delay 7
+ offset 59 198
+ frame data/chars/Zoro/199.gif
+ offset 78 147
+ frame data/chars/Zoro/200.gif
+ offset 65 179
+ frame data/chars/Zoro/201.gif
+ offset 64 158
+ frame data/chars/Zoro/202.gif
+ offset 62 139
+ frame data/chars/Zoro/203.gif
+ offset 95 112
+ frame data/chars/Zoro/204.gif
+
+anim freespecial3200
+ delay 7
+ offset 166 223
+ frame data/chars/Zoro/205.gif
+ offset 47 202
+ frame data/chars/Zoro/206.gif
+ offset 47 202
+ frame data/chars/Zoro/207.gif
+ offset 57 165
+ frame data/chars/Zoro/208.gif
+ offset 55 163
+ frame data/chars/Zoro/209.gif
+ offset 54 121
+ frame data/chars/Zoro/210.gif
+ offset 52 120
+ frame data/chars/Zoro/211.gif
+ offset 50 135
+ frame data/chars/Zoro/212.gif
+
+anim pain5000
+ delay 7
+ offset 71 134
+ frame data/chars/Zoro/213.gif
+ offset 81 125
+ frame data/chars/Zoro/214.gif
+ offset 88 109
+ frame data/chars/Zoro/215.gif
+ offset 85 101
+ frame data/chars/Zoro/216.gif
+
+anim pain5001
+ delay 7
+ offset 61 59
+ frame data/chars/Zoro/217.gif
+ offset 70 48
+ frame data/chars/Zoro/218.gif
+ offset 69 33
+ frame data/chars/Zoro/219.gif
+
+anim pain5002
+ delay 7
+ offset 58 22
+ frame data/chars/Zoro/220.gif
+ offset 56 16
+ frame data/chars/Zoro/221.gif
+ offset 53 8
+ frame data/chars/Zoro/222.gif
+
+anim pain5010
+ delay 7
+ offset 58 134
+ frame data/chars/Zoro/223.gif
+ offset 62 133
+ frame data/chars/Zoro/224.gif
+ offset 65 133
+ frame data/chars/Zoro/225.gif
+ offset 68 131
+ frame data/chars/Zoro/226.gif
+
+anim pain5011
+ delay 7
+ offset 47 60
+ frame data/chars/Zoro/227.gif
+ offset 49 60
+ frame data/chars/Zoro/228.gif
+ offset 51 60
+ frame data/chars/Zoro/229.gif
+
+anim pain5012
+ delay 7
+ offset 73 39
+ frame data/chars/Zoro/230.gif
+ offset 78 42
+ frame data/chars/Zoro/231.gif
+ offset 83 46
+ frame data/chars/Zoro/232.gif
+
+anim pain5020
+ delay 7
+ offset 66 141
+ frame data/chars/Zoro/233.gif
+ offset 73 142
+ frame data/chars/Zoro/234.gif
+ offset 76 141
+ frame data/chars/Zoro/235.gif
+
+anim fall5030
+ delay 7
+ offset 59 108
+ frame data/chars/Zoro/236.gif
+ offset 49 151
+ frame data/chars/Zoro/237.gif
+ offset 68 104
+ frame data/chars/Zoro/238.gif
+ offset 70 108
+ frame data/chars/Zoro/239.gif
+ offset 28 159
+ frame data/chars/Zoro/240.gif
+ offset 35 147
+ frame data/chars/Zoro/241.gif
+
+anim fall5031
+ delay 7
+ offset 54 23
+ frame data/chars/Zoro/242.gif
+ offset 40 46
+ frame data/chars/Zoro/243.gif
+ offset 44 15
+ frame data/chars/Zoro/244.gif
+ offset 40 33
+ frame data/chars/Zoro/245.gif
+ offset 13 107
+ frame data/chars/Zoro/246.gif
+ offset 32 113
+ frame data/chars/Zoro/247.gif
+
+anim fall5032
+ delay 7
+ offset 82 34
+ frame data/chars/Zoro/248.gif
+ offset 27 10
+ frame data/chars/Zoro/249.gif
+ offset 10 13
+ frame data/chars/Zoro/250.gif
+ offset 9 54
+ frame data/chars/Zoro/251.gif
+ offset 14 138
+ frame data/chars/Zoro/252.gif
+ offset 58 138
+ frame data/chars/Zoro/253.gif
+
+anim fall5040
+ delay 7
+ offset 68 92
+ frame data/chars/Zoro/254.gif
+ offset 59 27
+ frame data/chars/Zoro/255.gif
+ offset 47 45
+ frame data/chars/Zoro/256.gif
+
+anim fall5041
+ delay 7
+ offset 64 82
+ frame data/chars/Zoro/257.gif
+ offset 50 17
+ frame data/chars/Zoro/258.gif
+ offset 38 21
+ frame data/chars/Zoro/259.gif
+
+anim fall5042
+ delay 7
+ offset 41 58
+ frame data/chars/Zoro/260.gif
+ offset 8 25
+ frame data/chars/Zoro/261.gif
+ offset 7 39
+ frame data/chars/Zoro/262.gif
+
+anim fall5050
+ delay 7
+ offset 27 144
+ frame data/chars/Zoro/263.gif
+ offset 30 152
+ frame data/chars/Zoro/264.gif
+ offset 65 152
+ frame data/chars/Zoro/265.gif
+ offset 42 144
+ frame data/chars/Zoro/266.gif
+
+anim fall5060
+ delay 7
+ offset 28 142
+ frame data/chars/Zoro/267.gif
+ offset 17 152
+ frame data/chars/Zoro/268.gif
+
+anim fall5061
+ delay 7
+ offset 38 36
+ frame data/chars/Zoro/269.gif
+ offset 32 103
+ frame data/chars/Zoro/270.gif
+
+anim fall5062
+ delay 7
+ offset 15 10
+ frame data/chars/Zoro/271.gif
+ offset 18 143
+ frame data/chars/Zoro/272.gif
+
+anim fall5070
+ delay 7
+ offset 68 111
+ frame data/chars/Zoro/273.gif
+ offset 71 110
+ frame data/chars/Zoro/274.gif
+ offset 78 144
+ frame data/chars/Zoro/275.gif
+
+anim fall5071
+ delay 7
+ offset 38 34
+ frame data/chars/Zoro/276.gif
+ offset 116 40
+ frame data/chars/Zoro/277.gif
+ offset 103 90
+ frame data/chars/Zoro/278.gif
+
+anim fall5072
+ delay 7
+ offset 16 8
+ frame data/chars/Zoro/279.gif
+ offset 138 15
+ frame data/chars/Zoro/280.gif
+ offset 140 88
+ frame data/chars/Zoro/281.gif
+
+anim fall5080
+ delay 7
+ offset 79 107
+ frame data/chars/Zoro/282.gif
+ offset 59 110
+ frame data/chars/Zoro/283.gif
+ offset 31 147
+ frame data/chars/Zoro/284.gif
+
+anim rise
+ delay 7
+ offset 51 45
+ frame data/chars/Zoro/285.gif
+ offset 48 62
+ frame data/chars/Zoro/286.gif
+ offset 47 63
+ frame data/chars/Zoro/287.gif
+ offset 45 105
+ frame data/chars/Zoro/288.gif
+
+anim 5220
+ delay 7
+ offset 38 58
+ frame data/chars/Zoro/289.gif
+ offset 38 58
+ frame data/chars/Zoro/290.gif
+
+anim 15604
+ delay 7
+ offset -40 0
+ frame data/chars/Zoro/291.gif
+
+anim 9131
+ delay 7
+ offset 160 120
+ frame data/chars/Zoro/292.gif
+ offset 160 120
+ frame data/chars/Zoro/293.gif
+ offset 160 120
+ frame data/chars/Zoro/294.gif
+ offset 160 120
+ frame data/chars/Zoro/295.gif
+ offset 160 120
+ frame data/chars/Zoro/296.gif
+ offset 160 120
+ frame data/chars/Zoro/297.gif
+ offset 160 120
+ frame data/chars/Zoro/298.gif
+ offset 160 120
+ frame data/chars/Zoro/299.gif
+ offset 160 120
+ frame data/chars/Zoro/300.gif
+ offset 160 120
+ frame data/chars/Zoro/301.gif
+ offset 160 120
+ frame data/chars/Zoro/302.gif
+ offset 160 120
+ frame data/chars/Zoro/303.gif
+ offset 160 120
+ frame data/chars/Zoro/304.gif
+ offset 160 120
+ frame data/chars/Zoro/305.gif
+ offset 160 120
+ frame data/chars/Zoro/306.gif
+ offset 160 120
+ frame data/chars/Zoro/307.gif
+ offset 160 120
+ frame data/chars/Zoro/308.gif
+ offset 160 120
+ frame data/chars/Zoro/309.gif
+ offset 160 120
+ frame data/chars/Zoro/310.gif
+ offset 160 120
+ frame data/chars/Zoro/311.gif
+ offset 160 120
+ frame data/chars/Zoro/312.gif
+ offset 160 120
+ frame data/chars/Zoro/313.gif
+ offset 160 120
+ frame data/chars/Zoro/314.gif
+ offset 160 120
+ frame data/chars/Zoro/315.gif
+ offset 160 120
+ frame data/chars/Zoro/316.gif
+ offset 160 120
+ frame data/chars/Zoro/317.gif
+ offset 160 120
+ frame data/chars/Zoro/318.gif
+
+anim freespecial1005
+ delay 7
+ offset 60 78
+ frame data/chars/Zoro/319.gif
+ offset 62 74
+ frame data/chars/Zoro/320.gif
+ offset 55 68
+ frame data/chars/Zoro/321.gif
+ offset 47 42
+ frame data/chars/Zoro/322.gif
+
+anim freespecial1006
+ delay 7
+ offset 28 43
+ frame data/chars/Zoro/323.gif
+ offset 4 50
+ frame data/chars/Zoro/324.gif
+ offset 4 53
+ frame data/chars/Zoro/325.gif
+ offset 3 42
+ frame data/chars/Zoro/326.gif
+ offset -15 17
+ frame data/chars/Zoro/327.gif
+
+anim freespecial1007
+ delay 7
+ offset 95 64
+ frame data/chars/Zoro/328.gif
+ offset 87 64
+ frame data/chars/Zoro/329.gif
+ offset 50 69
+ frame data/chars/Zoro/330.gif
+ offset 40 54
+ frame data/chars/Zoro/331.gif
+
+anim freespecial3001
+ delay 7
+ offset 91 78
+ frame data/chars/Zoro/332.gif
+ offset 91 78
+ frame data/chars/Zoro/333.gif
+ offset 76 62
+ frame data/chars/Zoro/334.gif
+ offset 87 62
+ frame data/chars/Zoro/335.gif
+ offset 87 63
+ frame data/chars/Zoro/336.gif
+
+anim 9115
+ delay 7
+ offset 302 114
+ frame data/chars/Zoro/337.gif
+
+anim 9116
+ delay 7
+ offset 160 120
+ frame data/chars/Zoro/338.gif
+ offset 160 120
+ frame data/chars/Zoro/339.gif
+ offset 160 120
+ frame data/chars/Zoro/340.gif
+ offset 160 120
+ frame data/chars/Zoro/341.gif
+ offset 160 120
+ frame data/chars/Zoro/342.gif
+ offset 160 120
+ frame data/chars/Zoro/343.gif
+ offset 160 120
+ frame data/chars/Zoro/344.gif
+ offset 160 120
+ frame data/chars/Zoro/345.gif
+ offset 160 120
+ frame data/chars/Zoro/346.gif
+ offset 160 120
+ frame data/chars/Zoro/347.gif
+
+anim 15602
+ delay 7
+ offset 0 0
+ frame data/chars/Zoro/348.gif
+ offset 0 0
+ frame data/chars/Zoro/349.gif
+ offset 0 0
+ frame data/chars/Zoro/350.gif
+ offset 0 0
+ frame data/chars/Zoro/351.gif
+ offset 0 0
+ frame data/chars/Zoro/352.gif
+ offset 0 0
+ frame data/chars/Zoro/353.gif
+ offset 0 0
+ frame data/chars/Zoro/354.gif
+ offset 0 0
+ frame data/chars/Zoro/355.gif
+ offset 0 0
+ frame data/chars/Zoro/356.gif
+ offset 0 0
+ frame data/chars/Zoro/357.gif
+ offset 0 0
+ frame data/chars/Zoro/358.gif
+
+anim 8888
+ delay 7
+ offset 22 24
+ frame data/chars/Zoro/359.gif
+ offset 22 24
+ frame data/chars/Zoro/360.gif
+
+anim 8898
+ delay 7
+ offset 7 11
+ frame data/chars/Zoro/361.gif
+ offset 7 11
+ frame data/chars/Zoro/362.gif
+
+anim 9119
+ delay 7
+ offset 192 47
+ frame data/chars/Zoro/363.gif
+ offset 192 36
+ frame data/chars/Zoro/364.gif
+ offset 192 30
+ frame data/chars/Zoro/365.gif
+ offset 192 24
+ frame data/chars/Zoro/366.gif
+ offset 192 36
+ frame data/chars/Zoro/367.gif
+ offset 192 33
+ frame data/chars/Zoro/368.gif
+ offset 192 33
+ frame data/chars/Zoro/369.gif
+ offset 192 2
+ frame data/chars/Zoro/370.gif
+
+anim 0811
+ delay 7
+ offset 50 34
+ frame data/chars/Zoro/371.gif
+ offset 41 29
+ frame data/chars/Zoro/372.gif
+ offset 45 54
+ frame data/chars/Zoro/373.gif
+ offset 51 55
+ frame data/chars/Zoro/374.gif
+ offset 51 47
+ frame data/chars/Zoro/375.gif
+ offset 23 22
+ frame data/chars/Zoro/376.gif
+
+anim freespecial1105
+ delay 7
+ offset 110 96
+ frame data/chars/Zoro/377.gif
+
+anim 6181
+ delay 7
+ offset 93 35
+ frame data/chars/Zoro/378.gif
+ offset 99 35
+ frame data/chars/Zoro/379.gif
+ offset 95 39
+ frame data/chars/Zoro/380.gif
+ offset 102 35
+ frame data/chars/Zoro/381.gif
+
+anim 8196
+ delay 7
+ offset 44 114
+ frame data/chars/Zoro/382.gif
+ offset 41 115
+ frame data/chars/Zoro/383.gif
+ offset 42 116
+ frame data/chars/Zoro/384.gif
+ offset -26 109
+ frame data/chars/Zoro/385.gif
+
+anim 7008
+ delay 7
+ offset 0 57
+ frame data/chars/Zoro/386.gif
+ offset 0 64
+ frame data/chars/Zoro/387.gif
+ offset 0 67
+ frame data/chars/Zoro/388.gif
+ offset 0 41
+ frame data/chars/Zoro/389.gif
+ offset 0 27
+ frame data/chars/Zoro/390.gif
+ offset 0 27
+ frame data/chars/Zoro/391.gif
+ offset 0 37
+ frame data/chars/Zoro/392.gif
+ offset 0 14
+ frame data/chars/Zoro/393.gif
+
+anim 8035
+ delay 7
+ offset 31 25
+ frame data/chars/Zoro/394.gif
+ offset 13 18
+ frame data/chars/Zoro/395.gif
+ offset 27 40
+ frame data/chars/Zoro/396.gif
+ offset 28 29
+ frame data/chars/Zoro/397.gif
+
+anim 8036
+ delay 7
+ offset 48 39
+ frame data/chars/Zoro/398.gif
+ offset -15 26
+ frame data/chars/Zoro/399.gif
+ offset 36 56
+ frame data/chars/Zoro/400.gif
+ offset 15 44
+ frame data/chars/Zoro/401.gif
+
+anim 8037
+ delay 7
+ offset 0 46
+ frame data/chars/Zoro/402.gif
+ offset 43 34
+ frame data/chars/Zoro/403.gif
+ offset 18 40
+ frame data/chars/Zoro/404.gif
+ offset 38 48
+ frame data/chars/Zoro/405.gif
+
+anim 9131
+ delay 7
+ offset 160 120
+ frame data/chars/Zoro/406.gif
+ offset 160 120
+ frame data/chars/Zoro/407.gif
+ offset 160 120
+ frame data/chars/Zoro/408.gif
+ offset 160 120
+ frame data/chars/Zoro/409.gif
+ offset 160 120
+ frame data/chars/Zoro/410.gif
+ offset 160 120
+ frame data/chars/Zoro/411.gif
+ offset 160 120
+ frame data/chars/Zoro/412.gif
+ offset 160 120
+ frame data/chars/Zoro/413.gif
+ offset 160 120
+ frame data/chars/Zoro/414.gif
+ offset 160 120
+ frame data/chars/Zoro/415.gif
+ offset 160 120
+ frame data/chars/Zoro/416.gif
+ offset 160 120
+ frame data/chars/Zoro/417.gif
+ offset 160 120
+ frame data/chars/Zoro/418.gif
+ offset 160 120
+ frame data/chars/Zoro/419.gif
+ offset 160 120
+ frame data/chars/Zoro/420.gif
+ offset 160 120
+ frame data/chars/Zoro/421.gif
+ offset 160 120
+ frame data/chars/Zoro/422.gif
+ offset 160 120
+ frame data/chars/Zoro/423.gif
+ offset 160 120
+ frame data/chars/Zoro/424.gif
+ offset 160 120
+ frame data/chars/Zoro/425.gif
+ offset 160 120
+ frame data/chars/Zoro/426.gif
+ offset 160 120
+ frame data/chars/Zoro/427.gif
+ offset 160 120
+ frame data/chars/Zoro/428.gif
+ offset 160 120
+ frame data/chars/Zoro/429.gif
+ offset 160 120
+ frame data/chars/Zoro/430.gif
+ offset 160 120
+ frame data/chars/Zoro/431.gif
+ offset 160 120
+ frame data/chars/Zoro/432.gif
+ offset 160 120
+ frame data/chars/Zoro/433.gif
+ offset 160 120
+ frame data/chars/Zoro/434.gif
+ offset 160 120
+ frame data/chars/Zoro/435.gif
+ offset 160 120
+ frame data/chars/Zoro/436.gif
+ offset 160 120
+ frame data/chars/Zoro/437.gif
+ offset 160 120
+ frame data/chars/Zoro/438.gif
+ offset 160 120
+ frame data/chars/Zoro/439.gif
+ offset 160 120
+ frame data/chars/Zoro/440.gif
+ offset 160 120
+ frame data/chars/Zoro/441.gif
+ offset 160 120
+ frame data/chars/Zoro/442.gif
+ offset 160 120
+ frame data/chars/Zoro/443.gif
+ offset 160 120
+ frame data/chars/Zoro/444.gif
+ offset 160 120
+ frame data/chars/Zoro/445.gif
+ offset 160 120
+ frame data/chars/Zoro/446.gif
+ offset 160 120
+ frame data/chars/Zoro/447.gif
+ offset 160 120
+ frame data/chars/Zoro/448.gif
+ offset 160 120
+ frame data/chars/Zoro/449.gif
+ offset 160 120
+ frame data/chars/Zoro/450.gif
+ offset 160 120
+ frame data/chars/Zoro/451.gif
+ offset 160 120
+ frame data/chars/Zoro/452.gif
+ offset 160 120
+ frame data/chars/Zoro/453.gif
+ offset 160 120
+ frame data/chars/Zoro/454.gif
+ offset 160 120
+ frame data/chars/Zoro/455.gif
+ offset 160 120
+ frame data/chars/Zoro/456.gif
+ offset 160 120
+ frame data/chars/Zoro/457.gif
+ offset 160 120
+ frame data/chars/Zoro/458.gif
+ offset 160 120
+ frame data/chars/Zoro/459.gif
+ offset 160 120
+ frame data/chars/Zoro/460.gif
+ offset 160 120
+ frame data/chars/Zoro/461.gif
+ offset 160 120
+ frame data/chars/Zoro/462.gif
+
+anim 9115
+ delay 7
+ offset 31 28
+ frame data/chars/Zoro/463.gif
+ offset 32 28
+ frame data/chars/Zoro/464.gif
+ offset 31 27
+ frame data/chars/Zoro/465.gif
+ offset 34 25
+ frame data/chars/Zoro/466.gif
+
+anim 6010
+ delay 7
+ offset 0 0
+ frame data/chars/Zoro/467.gif
+ offset 0 0
+ frame data/chars/Zoro/468.gif
+ offset 0 0
+ frame data/chars/Zoro/469.gif
+ offset 0 0
+ frame data/chars/Zoro/470.gif
+ offset 0 0
+ frame data/chars/Zoro/471.gif
+ offset 0 0
+ frame data/chars/Zoro/472.gif
+ offset 0 0
+ frame data/chars/Zoro/473.gif
+ offset 0 0
+ frame data/chars/Zoro/474.gif
+
+anim 6011
+ delay 7
+ offset 46 8
+ frame data/chars/Zoro/475.gif
+
+anim 9100
+ delay 7
+ offset 0 0
+ frame data/chars/Zoro/476.gif
+ offset 0 0
+ frame data/chars/Zoro/477.gif
+ offset 0 0
+ frame data/chars/Zoro/478.gif
+ offset 0 0
+ frame data/chars/Zoro/479.gif
+ offset 0 0
+ frame data/chars/Zoro/480.gif
+ offset 0 0
+ frame data/chars/Zoro/481.gif
+ offset 0 0
+ frame data/chars/Zoro/482.gif
+ offset 0 0
+ frame data/chars/Zoro/483.gif
+ offset 0 0
+ frame data/chars/Zoro/484.gif
+ offset 0 0
+ frame data/chars/Zoro/485.gif
+ offset 0 0
+ frame data/chars/Zoro/486.gif
+ offset 0 0
+ frame data/chars/Zoro/487.gif
+ offset 0 0
+ frame data/chars/Zoro/488.gif
+ offset 0 0
+ frame data/chars/Zoro/489.gif
+ offset 0 0
+ frame data/chars/Zoro/490.gif
+ offset 0 0
+ frame data/chars/Zoro/491.gif
+ offset 0 0
+ frame data/chars/Zoro/492.gif
+ offset 0 0
+ frame data/chars/Zoro/493.gif
+ offset 0 0
+ frame data/chars/Zoro/494.gif
+ offset 0 0
+ frame data/chars/Zoro/495.gif
+ offset 0 0
+ frame data/chars/Zoro/496.gif
+ offset 0 0
+ frame data/chars/Zoro/497.gif
+ offset 0 0
+ frame data/chars/Zoro/498.gif
+ offset 0 0
+ frame data/chars/Zoro/499.gif
+ offset 0 0
+ frame data/chars/Zoro/500.gif
+ offset 0 0
+ frame data/chars/Zoro/501.gif
+ offset 0 0
+ frame data/chars/Zoro/502.gif
+
+anim 9101
+ delay 7
+ offset 0 0
+ frame data/chars/Zoro/503.gif
+ offset 0 0
+ frame data/chars/Zoro/504.gif
+ offset 0 0
+ frame data/chars/Zoro/505.gif
+ offset 0 0
+ frame data/chars/Zoro/506.gif
+ offset 0 0
+ frame data/chars/Zoro/507.gif
+ offset 0 0
+ frame data/chars/Zoro/508.gif
+ offset 0 0
+ frame data/chars/Zoro/509.gif
+ offset 0 0
+ frame data/chars/Zoro/510.gif
+ offset 0 0
+ frame data/chars/Zoro/511.gif
+
+anim 9102
+ delay 7
+ offset 0 0
+ frame data/chars/Zoro/512.gif
+ offset 0 0
+ frame data/chars/Zoro/513.gif
+ offset 0 0
+ frame data/chars/Zoro/514.gif
+ offset 0 0
+ frame data/chars/Zoro/515.gif
+ offset 0 0
+ frame data/chars/Zoro/516.gif
+ offset 0 0
+ frame data/chars/Zoro/517.gif
+ offset 0 0
+ frame data/chars/Zoro/518.gif
+ offset 0 0
+ frame data/chars/Zoro/519.gif
+ offset 0 0
+ frame data/chars/Zoro/520.gif
+ offset 0 0
+ frame data/chars/Zoro/521.gif
+
+anim 9103
+ delay 7
+ offset 0 0
+ frame data/chars/Zoro/522.gif
+ offset 0 0
+ frame data/chars/Zoro/523.gif
+ offset 0 0
+ frame data/chars/Zoro/524.gif
+ offset 0 0
+ frame data/chars/Zoro/525.gif
+ offset 0 0
+ frame data/chars/Zoro/526.gif
+ offset 0 0
+ frame data/chars/Zoro/527.gif
+ offset 0 0
+ frame data/chars/Zoro/528.gif
+
+anim 9104
+ delay 7
+ offset 0 0
+ frame data/chars/Zoro/529.gif
+ offset 0 0
+ frame data/chars/Zoro/530.gif
+ offset 0 0
+ frame data/chars/Zoro/531.gif
+ offset 0 0
+ frame data/chars/Zoro/532.gif
+ offset 0 0
+ frame data/chars/Zoro/533.gif
+ offset 0 0
+ frame data/chars/Zoro/534.gif
+ offset 0 0
+ frame data/chars/Zoro/535.gif
+
+anim 9105
+ delay 7
+ offset 0 0
+ frame data/chars/Zoro/536.gif
+ offset 0 0
+ frame data/chars/Zoro/537.gif
+ offset 0 0
+ frame data/chars/Zoro/538.gif
+ offset 0 0
+ frame data/chars/Zoro/539.gif
+ offset 0 0
+ frame data/chars/Zoro/540.gif
+ offset 0 0
+ frame data/chars/Zoro/541.gif
+ offset 0 0
+ frame data/chars/Zoro/542.gif
+
+anim 9106
+ delay 7
+ offset 0 0
+ frame data/chars/Zoro/543.gif
+ offset 0 0
+ frame data/chars/Zoro/544.gif
+ offset 0 0
+ frame data/chars/Zoro/545.gif
+ offset 0 0
+ frame data/chars/Zoro/546.gif
+ offset 0 0
+ frame data/chars/Zoro/547.gif
+ offset 0 0
+ frame data/chars/Zoro/548.gif
+ offset 0 0
+ frame data/chars/Zoro/549.gif
+ offset 0 0
+ frame data/chars/Zoro/550.gif
+ offset 0 0
+ frame data/chars/Zoro/551.gif
+ offset 0 0
+ frame data/chars/Zoro/552.gif
+
+anim 9107
+ delay 7
+ offset 0 0
+ frame data/chars/Zoro/553.gif
+ offset 0 0
+ frame data/chars/Zoro/554.gif
+ offset 0 0
+ frame data/chars/Zoro/555.gif
+ offset 0 0
+ frame data/chars/Zoro/556.gif
+ offset 0 0
+ frame data/chars/Zoro/557.gif
+ offset 0 0
+ frame data/chars/Zoro/558.gif
+ offset 0 0
+ frame data/chars/Zoro/559.gif
+ offset 0 0
+ frame data/chars/Zoro/560.gif
+
+anim 9108
+ delay 7
+ offset 0 0
+ frame data/chars/Zoro/561.gif
+ offset 0 0
+ frame data/chars/Zoro/562.gif
+ offset 0 0
+ frame data/chars/Zoro/563.gif
+ offset 0 0
+ frame data/chars/Zoro/564.gif
+ offset 0 0
+ frame data/chars/Zoro/565.gif
+ offset 0 0
+ frame data/chars/Zoro/566.gif
+ offset 0 0
+ frame data/chars/Zoro/567.gif
+
+anim 9109
+ delay 7
+ offset 17 17
+ frame data/chars/Zoro/568.gif
+ offset 24 32
+ frame data/chars/Zoro/569.gif
+ offset 46 101
+ frame data/chars/Zoro/570.gif
+ offset 28 143
+ frame data/chars/Zoro/571.gif
+ offset 28 160
+ frame data/chars/Zoro/572.gif
+ offset 24 174
+ frame data/chars/Zoro/573.gif
+ offset 16 191
+ frame data/chars/Zoro/574.gif
+ offset 8 207
+ frame data/chars/Zoro/575.gif
+ offset 32 24
+ frame data/chars/Zoro/576.gif
+ offset 102 46
+ frame data/chars/Zoro/577.gif
+ offset 143 28
+ frame data/chars/Zoro/578.gif
+ offset 160 28
+ frame data/chars/Zoro/579.gif
+ offset 174 24
+ frame data/chars/Zoro/580.gif
+ offset 191 16
+ frame data/chars/Zoro/581.gif
+ offset 207 8
+ frame data/chars/Zoro/582.gif
+
+anim 9110
+ delay 7
+ offset 0 0
+ frame data/chars/Zoro/583.gif
+ offset 0 0
+ frame data/chars/Zoro/584.gif
+ offset 0 0
+ frame data/chars/Zoro/585.gif
+ offset 0 0
+ frame data/chars/Zoro/586.gif
+ offset 0 0
+ frame data/chars/Zoro/587.gif
+ offset 0 0
+ frame data/chars/Zoro/588.gif
+ offset 0 0
+ frame data/chars/Zoro/589.gif
+ offset 0 0
+ frame data/chars/Zoro/590.gif
+ offset 0 0
+ frame data/chars/Zoro/591.gif
+ offset 0 0
+ frame data/chars/Zoro/592.gif
+ offset 0 0
+ frame data/chars/Zoro/593.gif
+
+anim 9113
+ delay 7
+ offset 0 0
+ frame data/chars/Zoro/594.gif
+ offset 0 0
+ frame data/chars/Zoro/595.gif
+ offset 0 0
+ frame data/chars/Zoro/596.gif
+ offset 0 0
+ frame data/chars/Zoro/597.gif
+ offset 0 0
+ frame data/chars/Zoro/598.gif
+ offset 0 0
+ frame data/chars/Zoro/599.gif
+ offset 0 0
+ frame data/chars/Zoro/600.gif
+ offset 0 0
+ frame data/chars/Zoro/601.gif
+ offset 0 0
+ frame data/chars/Zoro/602.gif
+ offset 0 0
+ frame data/chars/Zoro/603.gif
+ offset 0 0
+ frame data/chars/Zoro/604.gif
+ offset 0 0
+ frame data/chars/Zoro/605.gif
+ offset 0 0
+ frame data/chars/Zoro/606.gif
+ offset 0 0
+ frame data/chars/Zoro/607.gif
+ offset 0 0
+ frame data/chars/Zoro/608.gif
+
+anim freespecial1405
+ delay 7
+ offset 22 394
+ frame data/chars/Zoro/609.gif
+
+anim freespecial3005
+ delay 7
+ offset 334 181
+ frame data/chars/Zoro/610.gif
+
+anim freespecial1405
+ delay 7
+ offset 45 355
+ frame data/chars/Zoro/611.gif
+
+anim freespecial3005
+ delay 7
+ offset 360 176
+ frame data/chars/Zoro/612.gif
+
+anim freespecial1405
+ delay 7
+ offset 35 335
+ frame data/chars/Zoro/613.gif
+
+anim freespecial3005
+ delay 7
+ offset 325 174
+ frame data/chars/Zoro/614.gif
+
+anim freespecial1405
+ delay 7
+ offset 31 379
+ frame data/chars/Zoro/615.gif
+
+anim freespecial3005
+ delay 7
+ offset 327 177
+ frame data/chars/Zoro/616.gif
+
+anim freespecial1405
+ delay 7
+ offset 22 410
+ frame data/chars/Zoro/617.gif
+
+anim freespecial3005
+ delay 7
+ offset 336 176
+ frame data/chars/Zoro/618.gif
+
+anim freespecial3002
+ delay 7
+ offset 127 20
+ frame data/chars/Zoro/619.gif
+ offset 146 44
+ frame data/chars/Zoro/620.gif
+ offset 149 50
+ frame data/chars/Zoro/621.gif
+ offset 151 55
+ frame data/chars/Zoro/622.gif
+ offset 152 58
+ frame data/chars/Zoro/623.gif
+
+anim freespecial4303
+ delay 7
+ offset 160 120
+ frame data/chars/Zoro/624.gif
+ offset 160 120
+ frame data/chars/Zoro/625.gif
+ offset 160 120
+ frame data/chars/Zoro/626.gif
+ offset 160 120
+ frame data/chars/Zoro/627.gif
+
+anim freespecial3101
+ delay 7
+ offset 106 136
+ frame data/chars/Zoro/628.gif
+ offset 106 149
+ frame data/chars/Zoro/629.gif
+ offset 119 157
+ frame data/chars/Zoro/630.gif
+ offset 111 158
+ frame data/chars/Zoro/631.gif
+ offset 117 160
+ frame data/chars/Zoro/632.gif
+ offset 113 163
+ frame data/chars/Zoro/633.gif
+ offset 106 162
+ frame data/chars/Zoro/634.gif
+ offset 99 142
+ frame data/chars/Zoro/635.gif
+
+anim freespecial3102
+ delay 7
+ offset 113 131
+ frame data/chars/Zoro/636.gif
+ offset 95 130
+ frame data/chars/Zoro/637.gif
+ offset 99 134
+ frame data/chars/Zoro/638.gif
+ offset 94 76
+ frame data/chars/Zoro/639.gif
+
+anim 6011
+ delay 7
+ offset 71 46
+ frame data/chars/Zoro/640.gif
+ offset 79 50
+ frame data/chars/Zoro/641.gif
+ offset 84 75
+ frame data/chars/Zoro/642.gif
+ offset 62 31
+ frame data/chars/Zoro/643.gif
+ offset 81 26
+ frame data/chars/Zoro/644.gif
+ offset -21 36
+ frame data/chars/Zoro/645.gif
+ offset -39 23
+ frame data/chars/Zoro/646.gif
+
+anim 6020
+ delay 7
+ offset 158 85
+ frame data/chars/Zoro/647.gif
+ offset 177 94
+ frame data/chars/Zoro/648.gif
+ offset 188 98
+ frame data/chars/Zoro/649.gif
+ offset 197 101
+ frame data/chars/Zoro/650.gif
+ offset 184 111
+ frame data/chars/Zoro/651.gif
+
+anim 6080
+ delay 7
+ offset 32 152
+ frame data/chars/Zoro/652.gif
+ offset 18 164
+ frame data/chars/Zoro/653.gif
+ offset 10 172
+ frame data/chars/Zoro/654.gif
+ offset 5 171
+ frame data/chars/Zoro/655.gif
+ offset 3 177
+ frame data/chars/Zoro/656.gif
+
+anim 6081
+ delay 7
+ offset 152 31
+ frame data/chars/Zoro/657.gif
+ offset 166 17
+ frame data/chars/Zoro/658.gif
+ offset 172 9
+ frame data/chars/Zoro/659.gif
+ offset 174 4
+ frame data/chars/Zoro/660.gif
+ offset 178 2
+ frame data/chars/Zoro/661.gif
+
+anim 9001
+ delay 7
+ offset 0 0
+ frame data/chars/Zoro/662.gif
+ offset 0 0
+ frame data/chars/Zoro/663.gif
+ offset 0 0
+ frame data/chars/Zoro/664.gif
+ offset 0 0
+ frame data/chars/Zoro/665.gif
+ offset 0 0
+ frame data/chars/Zoro/666.gif
+ offset 0 0
+ frame data/chars/Zoro/667.gif
+ offset 0 0
+ frame data/chars/Zoro/668.gif
+ offset 0 0
+ frame data/chars/Zoro/669.gif
+ offset 0 0
+ frame data/chars/Zoro/670.gif
+
+anim 9118
+ delay 7
+ offset 260 180
+ frame data/chars/Zoro/671.gif
+ offset 260 180
+ frame data/chars/Zoro/672.gif
+ offset 260 180
+ frame data/chars/Zoro/673.gif
+ offset 260 180
+ frame data/chars/Zoro/674.gif
+ offset 260 180
+ frame data/chars/Zoro/675.gif
+ offset 260 180
+ frame data/chars/Zoro/676.gif
+ offset 260 180
+ frame data/chars/Zoro/677.gif
+ offset 260 180
+ frame data/chars/Zoro/678.gif
+
+anim 9001
+ delay 7
+ offset 0 0
+ frame data/chars/Zoro/679.gif
+
+anim 9185
+ delay 7
+ offset 9 8
+ frame data/chars/Zoro/680.gif
+ offset 13 12
+ frame data/chars/Zoro/681.gif
+ offset 14 13
+ frame data/chars/Zoro/682.gif
+ offset 14 14
+ frame data/chars/Zoro/683.gif
+ offset 15 15
+ frame data/chars/Zoro/684.gif
+ offset 16 15
+ frame data/chars/Zoro/685.gif
+ offset 16 15
+ frame data/chars/Zoro/686.gif
+ offset 16 16
+ frame data/chars/Zoro/687.gif
+ offset 15 16
+ frame data/chars/Zoro/688.gif
+ offset 14 15
+ frame data/chars/Zoro/689.gif
+ offset 14 15
+ frame data/chars/Zoro/690.gif
+
+anim 6012
+ delay 7
+ offset 0 0
+ frame data/chars/Zoro/691.gif
+ offset 0 0
+ frame data/chars/Zoro/692.gif
+ offset 0 0
+ frame data/chars/Zoro/693.gif
+ offset 0 0
+ frame data/chars/Zoro/694.gif
+ offset 0 0
+ frame data/chars/Zoro/695.gif
+ offset 0 0
+ frame data/chars/Zoro/696.gif
+ offset 0 0
+ frame data/chars/Zoro/697.gif
+ offset 0 0
+ frame data/chars/Zoro/698.gif
+ offset 0 0
+ frame data/chars/Zoro/699.gif
+
+anim 6019
+ delay 7
+ offset 0 0
+ frame data/chars/Zoro/700.gif
+ offset 0 0
+ frame data/chars/Zoro/701.gif
+ offset 0 0
+ frame data/chars/Zoro/702.gif
+ offset 0 0
+ frame data/chars/Zoro/703.gif
+ offset 0 0
+ frame data/chars/Zoro/704.gif
+ offset 0 0
+ frame data/chars/Zoro/705.gif
+ offset 0 0
+ frame data/chars/Zoro/706.gif
+ offset 0 0
+ frame data/chars/Zoro/707.gif
+ offset 0 0
+ frame data/chars/Zoro/708.gif
+
+anim 6050
+ delay 7
+ offset 0 0
+ frame data/chars/Zoro/709.gif
+ offset 0 0
+ frame data/chars/Zoro/710.gif
+ offset 0 0
+ frame data/chars/Zoro/711.gif
+ offset 0 0
+ frame data/chars/Zoro/712.gif
+ offset 0 0
+ frame data/chars/Zoro/713.gif
+ offset 0 0
+ frame data/chars/Zoro/714.gif
+
+anim 9112
+ delay 7
+ offset 13 11
+ frame data/chars/Zoro/715.gif
+ offset 24 20
+ frame data/chars/Zoro/716.gif
+ offset 46 38
+ frame data/chars/Zoro/717.gif
+ offset 61 51
+ frame data/chars/Zoro/718.gif
+ offset 76 70
+ frame data/chars/Zoro/719.gif
+ offset 96 78
+ frame data/chars/Zoro/720.gif
+ offset 117 158
+ frame data/chars/Zoro/721.gif
+ offset 144 122
+ frame data/chars/Zoro/722.gif
+ offset 160 126
+ frame data/chars/Zoro/723.gif
+ offset 183 144
+ frame data/chars/Zoro/724.gif
+ offset 172 161
+ frame data/chars/Zoro/725.gif
+ offset 186 144
+ frame data/chars/Zoro/726.gif
+ offset 204 161
+ frame data/chars/Zoro/727.gif
+ offset 159 134
+ frame data/chars/Zoro/728.gif
+ offset 179 153
+ frame data/chars/Zoro/729.gif
+ offset 165 128
+ frame data/chars/Zoro/730.gif
+ offset 188 110
+ frame data/chars/Zoro/731.gif
+ offset 192 126
+ frame data/chars/Zoro/732.gif
+ offset 191 131
+ frame data/chars/Zoro/733.gif
+ offset 191 131
+ frame data/chars/Zoro/734.gif
+ offset 205 143
+ frame data/chars/Zoro/735.gif
+
+anim 9114
+ delay 7
+ offset 0 0
+ frame data/chars/Zoro/736.gif
+ offset 0 0
+ frame data/chars/Zoro/737.gif
+ offset 0 0
+ frame data/chars/Zoro/738.gif
+ offset 0 0
+ frame data/chars/Zoro/739.gif
+ offset 0 0
+ frame data/chars/Zoro/740.gif
+ offset 0 0
+ frame data/chars/Zoro/741.gif
+ offset 0 0
+ frame data/chars/Zoro/742.gif
+ offset 0 0
+ frame data/chars/Zoro/743.gif
+ offset 0 0
+ frame data/chars/Zoro/744.gif
+ offset 0 0
+ frame data/chars/Zoro/745.gif
+ offset 0 0
+ frame data/chars/Zoro/746.gif
+ offset 0 0
+ frame data/chars/Zoro/747.gif
+
+anim 9131
+ delay 7
+ offset 160 120
+ frame data/chars/Zoro/748.gif
+
+anim 9130
+ delay 7
+ offset 160 120
+ frame data/chars/Zoro/749.gif
+ offset 160 120
+ frame data/chars/Zoro/750.gif
+ offset 160 120
+ frame data/chars/Zoro/751.gif
+ offset 160 120
+ frame data/chars/Zoro/752.gif
+ offset 160 120
+ frame data/chars/Zoro/753.gif
+ offset 160 120
+ frame data/chars/Zoro/754.gif
+ offset 160 120
+ frame data/chars/Zoro/755.gif
+ offset 160 120
+ frame data/chars/Zoro/756.gif
+ offset 160 120
+ frame data/chars/Zoro/757.gif
+ offset 160 120
+ frame data/chars/Zoro/758.gif
+
+anim 0101
+ delay 7
+ offset 80 16
+ frame data/chars/Zoro/759.gif
+ offset 99 38
+ frame data/chars/Zoro/760.gif
+ offset 102 45
+ frame data/chars/Zoro/761.gif
+ offset 104 48
+ frame data/chars/Zoro/762.gif
+ offset 105 51
+ frame data/chars/Zoro/763.gif
+
+anim 9111
+ delay 7
+ offset 134 12
+ frame data/chars/Zoro/764.gif
+ offset 144 24
+ frame data/chars/Zoro/765.gif
+ offset 155 82
+ frame data/chars/Zoro/766.gif
+ offset 140 85
+ frame data/chars/Zoro/767.gif
+ offset 138 90
+ frame data/chars/Zoro/768.gif
+ offset 129 94
+ frame data/chars/Zoro/769.gif
+ offset 139 98
+ frame data/chars/Zoro/770.gif
+ offset 154 109
+ frame data/chars/Zoro/771.gif
+ offset 163 110
+ frame data/chars/Zoro/772.gif
+ offset 164 114
+ frame data/chars/Zoro/773.gif
+ offset 169 133
+ frame data/chars/Zoro/774.gif
+ offset 167 142
+ frame data/chars/Zoro/775.gif
+ offset 167 148
+ frame data/chars/Zoro/776.gif
+ offset 155 152
+ frame data/chars/Zoro/777.gif
+ offset 123 133
+ frame data/chars/Zoro/778.gif
+ offset 123 133
+ frame data/chars/Zoro/779.gif
+ offset 72 124
+ frame data/chars/Zoro/780.gif
+ offset 60 130
+ frame data/chars/Zoro/781.gif
+ offset 60 135
+ frame data/chars/Zoro/782.gif
+ offset 55 133
+ frame data/chars/Zoro/783.gif

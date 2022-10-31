@@ -1,0 +1,276 @@
+name         Zoro
+type         enemy
+health  311
+shadow 3
+
+
+
+anim	attack1
+	bbox	58 65 40 101
+	delay	7
+	offset	50 175
+	frame	data/chars/Zoro/68.gif
+	attack	7 2 115 27 0 0 1 0 0 0
+	bbox	125 31 -65 119
+	offset	65 155
+	frame	data/chars/Zoro/69.gif
+	attack	69 101 95 -74 4 0 1 0 0 0
+	bbox	35 3 71 87
+	offset	54 107
+	frame	data/chars/Zoro/70.gif
+	attack	29 95 90 -43 0 0 1 0 0 0
+	offset	54 107
+	frame	data/chars/Zoro/71.gif
+	offset	53 120
+	frame	data/chars/Zoro/72.gif
+		
+anim	attack2
+	attack	0 0 0 0 0 0 0 0 0 0
+	bbox	38 19 36 103
+	delay	7
+	offset	58 130
+	frame	data/chars/Zoro/73.gif
+	offset	58 116
+	frame	data/chars/Zoro/74.gif
+	offset	58 108
+	frame	data/chars/Zoro/75.gif
+	attack	103 4 78 96 8 0 1 0 0 0
+	bbox	65 37 64 79
+	offset	68 139
+	frame	data/chars/Zoro/76.gif
+	attack	79 1 89 82 6 0 1 0 0 0
+	bbox	61 47 54 108
+	offset	56 165
+	frame	data/chars/Zoro/77.gif
+	bbox	45 28 62 82
+	offset	58 129
+	frame	data/chars/Zoro/78.gif
+		
+anim	attack3
+	bbox	37 43 36 75
+	delay	7
+	offset	56 139
+	frame	data/chars/Zoro/94.gif
+	bbox	103 40 42 77
+	attack	60 1 150 77 11 0 1 0 0 0
+	offset	116 128
+	frame	data/chars/Zoro/95.gif
+	bbox	60 18 65 80
+	attack	80 8 119 51 3 0 0 0 0 0
+	offset	82 115
+	frame	data/chars/Zoro/96.gif
+	bbox	103 47 40 84
+	attack	28 64 227 69 11 0 0 0 0 0
+	offset	104 154
+	frame	data/chars/Zoro/97.gif
+	bbox	49 70 68 98
+	attack	120 73 4 -14 0 0 0 0 0 0
+	offset	74 174
+	frame	data/chars/Zoro/98.gif
+	bbox	64 6 76 99
+	offset	79 112
+	frame	data/chars/Zoro/99.gif
+		
+anim	attack4
+	bbox	56 4 38 105
+	delay	7
+	offset	55 113
+	frame	data/chars/Zoro/100.gif
+	bbox	56 36 62 100
+	offset	82 146
+	frame	data/chars/Zoro/101.gif
+	attack	82 4 111 180 10 1 1 1 0 0
+	bbox	47 117 47 52
+	offset	61 186
+	frame	data/chars/Zoro/102.gif
+	attack	113 79 75 91 10 1 1 0 0 0
+	offset	60 173
+	frame	data/chars/Zoro/103.gif
+	bbox	54 4 58 90
+	offset	62 105
+	frame	data/chars/Zoro/104.gif
+		
+anim	fall
+	delay	7
+	offset	82 34
+	frame	data/chars/Zoro/248.gif
+	offset	10 13
+	frame	data/chars/Zoro/250.gif
+	offset	68 92
+	frame	data/chars/Zoro/254.gif
+	offset	59 27
+	frame	data/chars/Zoro/255.gif
+	offset	47 45
+	frame	data/chars/Zoro/256.gif
+	offset	59 27
+	frame	data/chars/Zoro/255.gif
+		
+anim	idle
+	loop	1
+	bbox	31 27 55 116
+	delay	7
+	offset	58 145
+	frame	data/chars/Zoro/5.gif
+	offset	58 143
+	frame	data/chars/Zoro/6.gif
+	offset	58 141
+	frame	data/chars/Zoro/7.gif
+	offset	58 139
+	frame	data/chars/Zoro/8.gif
+	offset	58 145
+	frame	data/chars/Zoro/9.gif
+	offset	58 145
+	frame	data/chars/Zoro/10.gif
+		
+anim	jump
+	bbox	29 29 49 81
+	delay	7
+	offset	51 119
+	frame	data/chars/Zoro/25.gif
+	bbox	67 26 43 99
+	offset	82 165
+	frame	data/chars/Zoro/26.gif
+	offset	81 162
+	frame	data/chars/Zoro/27.gif
+	offset	25 157
+	frame	data/chars/Zoro/28.gif
+	bbox	26 24 51 71
+	offset	46 151
+	frame	data/chars/Zoro/29.gif
+	offset	49 165
+	frame	data/chars/Zoro/30.gif
+	offset	43 176
+	frame	data/chars/Zoro/31.gif
+	offset	46 179
+	frame	data/chars/Zoro/32.gif
+	offset	44 177
+	frame	data/chars/Zoro/33.gif
+	offset	53 129
+	frame	data/chars/Zoro/34.gif
+		
+anim	jumpattack
+	bbox	66 2 57 89
+	delay	7
+	offset	73 149
+	frame	data/chars/Zoro/126.gif
+	attack	119 2 92 172 20 1 1 1 0 0
+	bbox	65 4 48 130
+	offset	65 192
+	frame	data/chars/Zoro/127.gif
+	attack	114 4 96 184 4 0 1 0 0 0
+	offset	65 207
+	frame	data/chars/Zoro/128.gif
+		
+anim	jumpattack2
+	bbox	62 49 25 78
+	delay	7
+	offset	70 193
+	frame	data/chars/Zoro/129.gif
+	bbox	20 38 46 93
+	offset	41 190
+	frame	data/chars/Zoro/130.gif
+	attack	118 42 118 186 10 0 1 1 0 0
+	bbox	93 133 28 74
+	offset	104 265
+	frame	data/chars/Zoro/131.gif
+	attack	128 28 84 67 10 1 1 0 0 0
+	bbox	72 6 33 68
+	offset	81 141
+	frame	data/chars/Zoro/132.gif
+	offset	77 146
+	frame	data/chars/Zoro/133.gif
+		
+anim	pain
+	bbox	40 31 55 75
+	delay	7
+	offset	71 134
+	frame	data/chars/Zoro/213.gif
+	offset	81 125
+	frame	data/chars/Zoro/214.gif
+	offset	88 109
+	frame	data/chars/Zoro/215.gif
+	offset	85 101
+	frame	data/chars/Zoro/216.gif
+		
+anim	rise
+	delay	7
+	offset	51 45
+	frame	data/chars/Zoro/285.gif
+	offset	48 62
+	frame	data/chars/Zoro/286.gif
+	offset	47 63
+	frame	data/chars/Zoro/287.gif
+	offset	45 105
+	frame	data/chars/Zoro/288.gif
+		
+anim	run
+	delay	7
+	loop	1
+	bbox	56 3 91 91
+	offset	86 122
+	frame	data/chars/Zoro/36.gif
+	offset	82 121
+	frame	data/chars/Zoro/37.gif
+	offset	81 119
+	frame	data/chars/Zoro/38.gif
+	offset	81 121
+	frame	data/chars/Zoro/39.gif
+	offset	85 122
+	frame	data/chars/Zoro/40.gif
+	offset	84 118
+	frame	data/chars/Zoro/41.gif
+		
+anim	runattack
+	delay	7
+	offset	166 223
+	frame	data/chars/Zoro/205.gif
+	attack	3 2 123 202 0 0 1 0 0 0
+	offset	55 202
+	frame	data/chars/Zoro/206.gif
+	attack	1 1 127 203 0 0 1 0 0 0
+	offset	49 202
+	frame	data/chars/Zoro/207.gif
+	attack	73 2 96 185 0 0 1 0 0 0
+	offset	57 165
+	frame	data/chars/Zoro/208.gif
+	attack	72 2 93 178 0 0 1 0 0 0
+	offset	56 163
+	frame	data/chars/Zoro/209.gif
+	offset	52 121
+	frame	data/chars/Zoro/210.gif
+	bbox	42 9 39 107
+	offset	63 120
+	frame	data/chars/Zoro/211.gif
+	bbox	22 23 40 93
+	offset	49 135
+	frame	data/chars/Zoro/212.gif
+		
+anim	turn
+	bbox	26 46 60 123
+	delay	7
+	offset	55 169
+	frame	data/chars/Zoro/11.gif
+		
+anim	walk
+	loop	1
+	bbox	42 29 45 121
+	delay	11
+	offset	54 153
+	frame	data/chars/Zoro/17.gif
+	offset	59 153
+	frame	data/chars/Zoro/18.gif
+	offset	60 153
+	frame	data/chars/Zoro/19.gif
+	offset	61 153
+	frame	data/chars/Zoro/20.gif
+	offset	63 150
+	frame	data/chars/Zoro/21.gif
+	offset	59 150
+	frame	data/chars/Zoro/22.gif
+	offset	59 152
+	frame	data/chars/Zoro/23.gif
+	offset	57 152
+	frame	data/chars/Zoro/24.gif
+		
+#|edited by openBor Stats v 0.67
+		

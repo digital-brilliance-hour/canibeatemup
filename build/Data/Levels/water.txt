@@ -13,7 +13,7 @@ order	abababababababababababab
 
 #---------------------
 
-spawn	Angel
+spawn Zoro
 coords	380 160
 at	800
 

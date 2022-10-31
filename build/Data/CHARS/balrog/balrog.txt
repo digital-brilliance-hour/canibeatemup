@@ -3,6 +3,7 @@ health 100
 type player
 speed 10
 shadow 3
+palette none
 
 
 
@@ -243,7 +244,7 @@ anim	jump
 	offset	26 99
 	frame	data/chars/balrog/24.gif
 		
-anim	jumpattack1
+anim	jumpattack
 	delay	7
 	offset	36 119
 	frame	data/chars/balrog/133.gif

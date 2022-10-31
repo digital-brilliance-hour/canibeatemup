@@ -1,0 +1,406 @@
+name MikeTyson
+health 100
+type player
+speed 10
+shadow 3
+palette none
+
+
+
+
+anim	attack1
+	bbox	0 0 0 0
+	delay	7
+	offset	33 99
+	frame	data/chars/balrog/74.gif
+	attack	89 13 32 13 5 0 1 0 0 0
+	offset	33 99
+	frame	data/chars/balrog/75.gif
+		
+anim	attack2
+	delay	7
+	offset	30 85
+	frame	data/chars/balrog/103.gif
+	offset	29 89
+	frame	data/chars/balrog/104.gif
+	attack	102 0 35 23 7 0 1 0 0 0
+	offset	28 83
+	frame	data/chars/balrog/105.gif
+	offset	28 88
+	frame	data/chars/balrog/106.gif
+	offset	28 89
+	frame	data/chars/balrog/107.gif
+	offset	29 90
+	frame	data/chars/balrog/108.gif
+	offset	29 97
+	frame	data/chars/balrog/109.gif
+		
+anim	attack3
+	delay	7
+	fastattack	1
+	offset	33 94
+	frame	data/chars/balrog/76.gif
+	offset	32 95
+	frame	data/chars/balrog/77.gif
+	attack	91 24 20 33 6 0 1 0 0 0
+	offset	30 95
+	delay	1
+	frame	data/chars/balrog/78.gif
+	attack	0 0 0 0 0 0 0 0 0 0
+	offset	30 95
+	frame	data/chars/balrog/78.gif
+	attack	73 1 24 111 6 1 1 0 0 0
+	offset	27 128
+	delay	7
+	frame	data/chars/balrog/79.gif
+	offset	32 95
+	frame	data/chars/balrog/80.gif
+	offset	32 94
+	frame	data/chars/balrog/81.gif
+		
+anim	block
+	delay	7
+	offset	38 94
+	frame	data/chars/balrog/44.gif
+	offset	39 100
+	frame	data/chars/balrog/45.gif
+	offset	46 65
+	frame	data/chars/balrog/46.gif
+	offset	49 72
+	frame	data/chars/balrog/47.gif
+	offset	33 106
+	frame	data/chars/balrog/48.gif
+	offset	36 113
+	frame	data/chars/balrog/49.gif
+		
+anim	faint
+	delay	7
+	offset	19 98
+	frame	data/chars/balrog/305.gif
+	offset	21 101
+	frame	data/chars/balrog/306.gif
+	offset	41 103
+	frame	data/chars/balrog/307.gif
+	offset	36 104
+	frame	data/chars/balrog/308.gif
+		
+anim	fall
+	delay	7
+	offset	47 109
+	frame	data/chars/balrog/251.gif
+	offset	58 110
+	frame	data/chars/balrog/252.gif
+	offset	68 95
+	frame	data/chars/balrog/253.gif
+	offset	70 87
+	frame	data/chars/balrog/254.gif
+		
+anim	freespecial
+	attack	0 0 0 0 0 0 0 0 0 0
+	delay	7
+	offset	31 93
+	frame	data/chars/balrog/87.gif
+	attack	36 9 35 14 0 0 1 0 0 0
+	offset	31 89
+	frame	data/chars/balrog/88.gif
+	attack	93 5 65 17 20 1 1 0 0 0
+	offset	29 80
+	frame	data/chars/balrog/89.gif
+	offset	31 89
+	frame	data/chars/balrog/90.gif
+		
+anim	freespecial2
+	bbox	0 0 0 0
+	attack	0 0 0 0 0 0 0 0 0 0
+	delay	7
+	offset	28 102
+	frame	data/chars/balrog/162.gif
+	offset	30 103
+	frame	data/chars/balrog/163.gif
+	attack	26 0 41 23 0 0 1 0 0 0
+	offset	44 100
+	frame	data/chars/balrog/164.gif
+	attack	0 0 0 0 0 0 0 0 0 0
+	offset	53 86
+	frame	data/chars/balrog/165.gif
+	attack	0 26 31 31 0 0 0 0 0 0
+	offset	50 86
+	frame	data/chars/balrog/166.gif
+	offset	44 94
+	frame	data/chars/balrog/167.gif
+		
+anim	freespecial3
+	delay	7
+	offset	37 67
+	frame	data/chars/balrog/110.gif
+	attack	66 9 44 23 0 0 1 0 0 0
+	offset	37 67
+	frame	data/chars/balrog/111.gif
+		
+anim	freespecial4
+	attack	0 0 0 0 0 0 0 0 0 0
+	delay	7
+	offset	41 93
+	frame	data/chars/balrog/33.gif
+	offset	50 101
+	frame	data/chars/balrog/34.gif
+	offset	53 96
+	frame	data/chars/balrog/35.gif
+	offset	48 95
+	frame	data/chars/balrog/36.gif
+	offset	33 95
+	frame	data/chars/balrog/37.gif
+	offset	33 97
+	frame	data/chars/balrog/38.gif
+		
+anim	freespecial5
+	attack	0 0 0 0 0 0 0 0 0 0
+	delay	7
+	offset	48 69
+	frame	data/chars/balrog/112.gif
+	offset	40 72
+	frame	data/chars/balrog/113.gif
+	attack	62 9 47 24 0 0 1 0 0 0
+	offset	32 67
+	frame	data/chars/balrog/114.gif
+	offset	33 68
+	frame	data/chars/balrog/115.gif
+	offset	37 69
+	frame	data/chars/balrog/116.gif
+		
+anim	freespecial6
+	delay	7
+	offset	33 70
+	frame	data/chars/balrog/117.gif
+	offset	32 72
+	frame	data/chars/balrog/118.gif
+	attack	89 12 10 37 0 0 1 0 0 0
+	offset	30 81
+	frame	data/chars/balrog/119.gif
+	offset	32 81
+	frame	data/chars/balrog/120.gif
+	offset	37 67
+	frame	data/chars/balrog/121.gif
+		
+anim	freespecial7
+	bbox	1 0 71 95
+	delay	7
+	offset	33 89
+	frame	data/chars/balrog/11.gif
+	offset	34 80
+	frame	data/chars/balrog/12.gif
+	offset	38 68
+	frame	data/chars/balrog/13.gif
+	bbox	1 2 69 66
+	offset	36 61
+	frame	data/chars/balrog/8.gif
+	offset	41 59
+	frame	data/chars/balrog/9.gif
+	bbox	0 0 0 0
+	offset	38 64
+	frame	data/chars/balrog/10.gif
+		
+anim	freespecial8
+	delay	7
+	offset	32 92
+	frame	data/chars/balrog/82.gif
+	offset	31 92
+	frame	data/chars/balrog/83.gif
+	offset	29 95
+	frame	data/chars/balrog/84.gif
+	attack	63 3 34 120 25 1 1 0 0 0
+	offset	28 123
+	frame	data/chars/balrog/85.gif
+	offset	31 95
+	frame	data/chars/balrog/86.gif
+		
+anim	idle
+	loop	1
+	bbox	1 1 73 100
+	delay	7
+	offset	33 102
+	frame	data/chars/balrog/1.gif
+	offset	33 99
+	frame	data/chars/balrog/2.gif
+	attack	74 30 -17 0 0 0 1 0 0 0
+	offset	33 97
+	frame	data/chars/balrog/3.gif
+	offset	33 95
+	frame	data/chars/balrog/4.gif
+		
+anim	jump
+	bbox	1 1 74 94
+	delay	7
+	offset	33 89
+	frame	data/chars/balrog/19.gif
+	offset	33 76
+	frame	data/chars/balrog/20.gif
+	offset	29 112
+	frame	data/chars/balrog/21.gif
+	offset	26 108
+	frame	data/chars/balrog/22.gif
+	offset	24 104
+	frame	data/chars/balrog/23.gif
+	offset	26 99
+	frame	data/chars/balrog/24.gif
+		
+anim	jumpattack
+	delay	7
+	offset	36 119
+	frame	data/chars/balrog/133.gif
+	offset	29 114
+	frame	data/chars/balrog/134.gif
+	attack	78 25 37 35 0 0 1 0 0 0
+	offset	37 107
+	frame	data/chars/balrog/135.gif
+	offset	26 107
+	frame	data/chars/balrog/136.gif
+	offset	23 109
+	frame	data/chars/balrog/137.gif
+		
+anim	jumpattack2
+	delay	7
+	offset	29 110
+	frame	data/chars/balrog/148.gif
+	attack	63 9 37 36 0 0 1 0 0 0
+	offset	37 106
+	frame	data/chars/balrog/149.gif
+	offset	32 106
+	frame	data/chars/balrog/150.gif
+	offset	32 106
+	frame	data/chars/balrog/151.gif
+	offset	28 107
+	frame	data/chars/balrog/152.gif
+		
+anim	pain
+	delay	7
+	offset	33 99
+	frame	data/chars/balrog/237.gif
+	offset	51 89
+	frame	data/chars/balrog/238.gif
+	offset	56 86
+	frame	data/chars/balrog/239.gif
+	offset	65 77
+	frame	data/chars/balrog/240.gif
+		
+anim	pain2
+	delay	7
+	offset	39 70
+	frame	data/chars/balrog/247.gif
+	offset	54 75
+	frame	data/chars/balrog/248.gif
+	offset	74 74
+	frame	data/chars/balrog/249.gif
+	offset	99 72
+	frame	data/chars/balrog/250.gif
+		
+anim	rise
+	delay	7
+	offset	52 47
+	frame	data/chars/balrog/302.gif
+	offset	46 60
+	frame	data/chars/balrog/303.gif
+	offset	33 76
+	frame	data/chars/balrog/304.gif
+		
+anim	run
+	loop	1
+	bbox	42 4 62 82
+	delay	7
+	offset	56 90
+	frame	data/chars/balrog/27.gif
+	offset	59 91
+	frame	data/chars/balrog/28.gif
+	offset	44 87
+	frame	data/chars/balrog/29.gif
+	offset	51 90
+	frame	data/chars/balrog/30.gif
+	offset	57 91
+	frame	data/chars/balrog/31.gif
+	offset	35 87
+	frame	data/chars/balrog/32.gif
+		
+anim	runattack
+	delay	7
+	offset	52 98
+	frame	data/chars/balrog/191.gif
+	offset	57 89
+	frame	data/chars/balrog/192.gif
+	attack	111 7 54 17 0 0 1 0 0 0
+	offset	53 80
+	frame	data/chars/balrog/193.gif
+	offset	39 89
+	frame	data/chars/balrog/194.gif
+	offset	33 95
+	frame	data/chars/balrog/195.gif
+		
+anim	select
+	loop	1
+	delay	7
+	offset	43 107
+	frame	data/chars/balrog/168.gif
+	offset	42 107
+	frame	data/chars/balrog/169.gif
+	offset	33 100
+	frame	data/chars/balrog/170.gif
+	offset	33 100
+	frame	data/chars/balrog/171.gif
+		
+anim	turn
+	bbox	5 4 56 87
+	delay	7
+	offset	33 90
+	frame	data/chars/balrog/5.gif
+	offset	33 88
+	frame	data/chars/balrog/6.gif
+	offset	33 94
+	frame	data/chars/balrog/7.gif
+		
+anim	victory
+	delay	7
+	offset	42 111
+	frame	data/chars/balrog/60.gif
+	offset	38 100
+	frame	data/chars/balrog/61.gif
+	frame	data/chars/balrog/55.gif
+	offset	73 115
+	frame	data/chars/balrog/56.gif
+	offset	42 118
+	frame	data/chars/balrog/57.gif
+	offset	59 120
+	frame	data/chars/balrog/58.gif
+	offset	58 120
+	frame	data/chars/balrog/59.gif
+	offset	33 90
+	frame	data/chars/balrog/60.gif
+	offset	38 100
+	frame	data/chars/balrog/61.gif
+		
+anim	waiting
+	delay	7
+	offset	33 99
+	frame	data/chars/balrog/70.gif
+	offset	36 97
+	frame	data/chars/balrog/71.gif
+	offset	33 101
+	frame	data/chars/balrog/72.gif
+	offset	33 99
+	frame	data/chars/balrog/73.gif
+		
+anim	walk
+	loop	1
+	bbox	6 1 45 100
+	delay	7
+	offset	27 106
+	frame	data/chars/balrog/14.gif
+	offset	24 103
+	frame	data/chars/balrog/15.gif
+	offset	27 101
+	frame	data/chars/balrog/16.gif
+	offset	39 99
+	frame	data/chars/balrog/17.gif
+	offset	31 103
+	frame	data/chars/balrog/18.gif
+		
+#|edited by openBor Stats v 0.67
+		

@@ -67,3 +67,4 @@ know  data/chars//.txt
 know  data/chars//.txt
 know  data/chars//.txt
 know Zoro data/chars/Zoro/Zoro.txt
+Load titleanimation Data/CHARS/misc/titleanimation/titleanimation.txt

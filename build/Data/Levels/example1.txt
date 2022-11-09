@@ -1,6 +1,6 @@
 # Street
-music		data/music/remix.bor
-bossmusic	data/music/menu.bor
+music		data/music/stage1.ogg
+#bossmusic	data/music/menu.bor
 
 # Load images
 background	data/bgs/street/back.gif

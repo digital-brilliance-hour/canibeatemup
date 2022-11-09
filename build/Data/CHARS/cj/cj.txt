@@ -1,0 +1,330 @@
+name canibus
+health 100
+speed 12
+shadow 4
+type player
+palette none
+running 16 4 3 0 1
+
+
+anim	attack1
+	delay	7
+	offset	73 108
+	frame	data/chars/cj/48.gif
+	offset	81 108
+	frame	data/chars/cj/49.gif
+	offset	81 108
+	frame	data/chars/cj/50.gif
+	attack	126 22 48 22 10 0 1 0 0 0
+	offset	81 108
+	frame	data/chars/cj/51.gif
+	offset	81 108
+	frame	data/chars/cj/52.gif
+	offset	81 108
+	frame	data/chars/cj/53.gif
+	offset	81 108
+	frame	data/chars/cj/54.gif
+		
+anim	attack2
+	delay	7
+	offset	42 107
+	frame	data/chars/cj/55.gif
+	attack	32 6 30 12 0 0 1 0 0 0
+	offset	52 107
+	frame	data/chars/cj/56.gif
+	offset	57 107
+	frame	data/chars/cj/57.gif
+	attack	114 20 30 17 12 0 1 0 0 0
+	offset	67 107
+	frame	data/chars/cj/58.gif
+	offset	84 107
+	frame	data/chars/cj/59.gif
+	offset	90 107
+	frame	data/chars/cj/60.gif
+	offset	85 107
+	frame	data/chars/cj/61.gif
+		
+anim	attack3
+	delay	7
+	offset	44 111
+	frame	data/chars/cj/65.gif
+	offset	40 115
+	frame	data/chars/cj/66.gif
+	offset	51 111
+	frame	data/chars/cj/67.gif
+	attack	98 19 47 28 15 0 1 0 0 0
+	offset	61 107
+	frame	data/chars/cj/68.gif
+	offset	61 107
+	frame	data/chars/cj/69.gif
+	offset	53 109
+	frame	data/chars/cj/70.gif
+		
+anim	attack4
+	delay	7
+	offset	38 108
+	frame	data/chars/cj/71.gif
+	offset	38 107
+	frame	data/chars/cj/72.gif
+	offset	38 107
+	frame	data/chars/cj/73.gif
+	attack	83 11 55 28 20 1 1 0 0 0
+	offset	38 107
+	frame	data/chars/cj/74.gif
+	offset	38 107
+	frame	data/chars/cj/75.gif
+	offset	38 108
+	frame	data/chars/cj/76.gif
+	offset	32 107
+	frame	data/chars/cj/77.gif
+		
+anim	block
+	delay	7
+	offset	47 110
+	frame	data/chars/cj/35.gif
+		
+anim	fall
+	delay	7
+	offset	55 112
+	frame	data/chars/cj/264.gif
+	offset	78 107
+	frame	data/chars/cj/265.gif
+	offset	78 107
+	frame	data/chars/cj/266.gif
+	offset	81 99
+	frame	data/chars/cj/267.gif
+		
+anim	freespecial1
+	fastattack	1
+	delay	7
+	offset	50 103
+	frame	data/chars/cj/113.gif
+	offset	49 107
+	frame	data/chars/cj/114.gif
+	offset	46 107
+	frame	data/chars/cj/115.gif
+	offset	51 107
+	frame	data/chars/cj/116.gif
+	attack	71 49 54 26 8 0 1 0 0 0
+	offset	48 107
+	frame	data/chars/cj/117.gif
+	attack	0 0 0 0 0 0 0 0 0 0
+	offset	48 107
+	frame	data/chars/cj/118.gif
+	offset	37 107
+	frame	data/chars/cj/119.gif
+	offset	42 105
+	frame	data/chars/cj/120.gif
+	offset	42 105
+	frame	data/chars/cj/121.gif
+	offset	51 106
+	frame	data/chars/cj/122.gif
+	offset	57 110
+	frame	data/chars/cj/123.gif
+	offset	65 110
+	frame	data/chars/cj/124.gif
+	attack	91 32 42 24 8 0 1 0 0 0
+	offset	76 110
+	frame	data/chars/cj/125.gif
+	attack	0 0 0 0 0 0 0 0 0 0
+	offset	75 110
+	frame	data/chars/cj/126.gif
+	offset	39 109
+	frame	data/chars/cj/127.gif
+	offset	47 109
+	frame	data/chars/cj/128.gif
+	attack	98 28 22 18 8 1 1 0 0 0
+	offset	51 109
+	frame	data/chars/cj/129.gif
+	offset	46 109
+	frame	data/chars/cj/130.gif
+		
+anim	freespecial2
+	delay	7
+	offset	47 109
+	frame	data/chars/cj/173.gif
+	offset	77 109
+	frame	data/chars/cj/174.gif
+	offset	55 114
+	frame	data/chars/cj/175.gif
+	offset	56 114
+	frame	data/chars/cj/176.gif
+	offset	63 114
+	frame	data/chars/cj/177.gif
+	attack	89 29 50 31 20 1 0 0 0 0
+	offset	66 115
+	frame	data/chars/cj/178.gif
+	offset	65 116
+	frame	data/chars/cj/179.gif
+	offset	62 110
+	frame	data/chars/cj/180.gif
+		
+anim	freespecial3
+	delay	7
+	offset	74 105
+	frame	data/chars/cj/181.gif
+	offset	70 127
+	frame	data/chars/cj/182.gif
+	attack	104 10 19 73 0 0 1 0 0 0
+	offset	48 132
+	frame	data/chars/cj/183.gif
+	offset	50 110
+	frame	data/chars/cj/184.gif
+	attack	109 62 50 20 9 0 1 0 0 0
+	offset	48 110
+	frame	data/chars/cj/185.gif
+	offset	77 110
+	frame	data/chars/cj/186.gif
+	offset	78 110
+	frame	data/chars/cj/187.gif
+	offset	47 110
+	frame	data/chars/cj/188.gif
+	attack	117 0 49 30 10 0 1 0 0 0
+	offset	48 109
+	frame	data/chars/cj/189.gif
+	attack	0 0 0 0 0 0 0 0 0 0
+	offset	65 107
+	frame	data/chars/cj/190.gif
+	offset	59 106
+	frame	data/chars/cj/191.gif
+	offset	44 133
+	frame	data/chars/cj/192.gif
+	offset	78 109
+	frame	data/chars/cj/193.gif
+	offset	52 108
+	frame	data/chars/cj/194.gif
+	attack	123 25 48 20 10 1 1 0 0 0
+	offset	54 108
+	frame	data/chars/cj/195.gif
+	offset	54 127
+	frame	data/chars/cj/196.gif
+	offset	54 127
+	frame	data/chars/cj/197.gif
+	offset	55 127
+	frame	data/chars/cj/198.gif
+		
+anim	idle
+	loop	1
+	bbox	22 5 61 102
+	delay	10
+	offset	42 107
+	frame	data/chars/cj/2.gif
+	offset	42 107
+	frame	data/chars/cj/3.gif
+	offset	42 107
+	frame	data/chars/cj/4.gif
+	offset	42 107
+	frame	data/chars/cj/5.gif
+		
+anim	jump
+	bbox	11 3 80 106
+	delay	7
+	offset	51 116
+	frame	data/chars/cj/22.gif
+	offset	53 116
+	frame	data/chars/cj/23.gif
+	offset	56 111
+	frame	data/chars/cj/24.gif
+		
+anim	jumpattack
+	delay	7
+	offset	36 116
+	frame	data/chars/cj/110.gif
+	offset	26 108
+	frame	data/chars/cj/111.gif
+	attack	78 37 56 35 10 1 1 0 0 0
+	offset	19 107
+	frame	data/chars/cj/112.gif
+		
+anim	jumpattack2
+	delay	7
+	offset	51 107
+	frame	data/chars/cj/104.gif
+	offset	59 108
+	frame	data/chars/cj/105.gif
+	attack	125 30 30 46 15 1 1 0 0 0
+	offset	63 95
+	frame	data/chars/cj/106.gif
+		
+anim	rise
+	delay	12
+	offset	48 107
+	frame	data/chars/cj/9.gif
+		
+anim	pain
+	delay	7
+	offset	28 109
+	frame	data/chars/cj/246.gif
+	offset	39 109
+	frame	data/chars/cj/247.gif
+	offset	47 107
+	frame	data/chars/cj/248.gif
+		
+anim	run
+	loop	1
+	bbox	21 5 60 90
+	delay	7
+	offset	44 103
+	frame	data/chars/cj/25.gif
+	offset	44 97
+	frame	data/chars/cj/26.gif
+	offset	43 97
+	frame	data/chars/cj/27.gif
+	offset	46 98
+	frame	data/chars/cj/28.gif
+	offset	46 100
+	frame	data/chars/cj/29.gif
+	offset	42 103
+	frame	data/chars/cj/30.gif
+	offset	40 97
+	frame	data/chars/cj/31.gif
+	offset	41 97
+	frame	data/chars/cj/32.gif
+	offset	45 98
+	frame	data/chars/cj/33.gif
+	offset	45 100
+	frame	data/chars/cj/34.gif
+		
+anim	runattack
+	delay	7
+	offset	48 107
+	frame	data/chars/cj/84.gif
+	offset	48 107
+	frame	data/chars/cj/85.gif
+	offset	48 107
+	frame	data/chars/cj/86.gif
+	attack	78 2 28 40 20 1 1 0 0 0
+	offset	48 112
+	frame	data/chars/cj/87.gif
+	offset	48 111
+	frame	data/chars/cj/88.gif
+		
+anim	select
+	delay	7
+	offset	52 114
+	frame	data/chars/cj/45.gif
+		
+anim	turn
+	delay	7
+	offset	44 107
+	frame	data/chars/cj/6.gif
+		
+anim	walk
+	loop	1
+	bbox	21 5 58 96
+	delay	7
+	offset	38 107
+	frame	data/chars/cj/10.gif
+	offset	39 108
+	frame	data/chars/cj/11.gif
+	offset	40 108
+	frame	data/chars/cj/12.gif
+	offset	41 108
+	frame	data/chars/cj/13.gif
+	offset	40 107
+	frame	data/chars/cj/14.gif
+	offset	39 107
+	frame	data/chars/cj/15.gif
+		
+#|edited by openBor Stats v 0.67
+		

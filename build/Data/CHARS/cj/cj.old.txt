@@ -1,0 +1,1402 @@
+name 
+
+
+anim 9000
+ delay 7
+ offset 0 0
+ frame data/chars/cj/0.gif
+ offset 0 0
+ frame data/chars/cj/1.gif
+
+anim idle
+ delay 7
+ offset 42 107
+ frame data/chars/cj/2.gif
+ offset 42 107
+ frame data/chars/cj/3.gif
+ offset 42 107
+ frame data/chars/cj/4.gif
+ offset 42 107
+ frame data/chars/cj/5.gif
+
+anim turn
+ delay 7
+ offset 44 107
+ frame data/chars/cj/6.gif
+
+anim 0006
+ delay 7
+ offset 53 105
+ frame data/chars/cj/7.gif
+
+anim 0011
+ delay 7
+ offset 48 107
+ frame data/chars/cj/8.gif
+ offset 48 107
+ frame data/chars/cj/9.gif
+
+anim walk
+ delay 7
+ offset 38 107
+ frame data/chars/cj/10.gif
+ offset 39 108
+ frame data/chars/cj/11.gif
+ offset 40 108
+ frame data/chars/cj/12.gif
+ offset 41 108
+ frame data/chars/cj/13.gif
+ offset 40 107
+ frame data/chars/cj/14.gif
+ offset 39 107
+ frame data/chars/cj/15.gif
+
+anim backwalk
+ delay 7
+ offset 51 105
+ frame data/chars/cj/16.gif
+ offset 51 106
+ frame data/chars/cj/17.gif
+ offset 51 107
+ frame data/chars/cj/18.gif
+ offset 51 108
+ frame data/chars/cj/19.gif
+ offset 51 106
+ frame data/chars/cj/20.gif
+ offset 51 105
+ frame data/chars/cj/21.gif
+
+anim jump
+ delay 7
+ offset 51 116
+ frame data/chars/cj/22.gif
+ offset 53 116
+ frame data/chars/cj/23.gif
+ offset 56 111
+ frame data/chars/cj/24.gif
+
+anim run
+ delay 7
+ offset 44 103
+ frame data/chars/cj/25.gif
+ offset 44 97
+ frame data/chars/cj/26.gif
+ offset 43 97
+ frame data/chars/cj/27.gif
+ offset 46 98
+ frame data/chars/cj/28.gif
+ offset 46 100
+ frame data/chars/cj/29.gif
+ offset 42 103
+ frame data/chars/cj/30.gif
+ offset 40 97
+ frame data/chars/cj/31.gif
+ offset 41 97
+ frame data/chars/cj/32.gif
+ offset 45 98
+ frame data/chars/cj/33.gif
+ offset 45 100
+ frame data/chars/cj/34.gif
+
+anim block120
+ delay 7
+ offset 47 110
+ frame data/chars/cj/35.gif
+
+anim block121
+ delay 7
+ offset 56 97
+ frame data/chars/cj/36.gif
+
+anim block122
+ delay 7
+ offset 54 117
+ frame data/chars/cj/37.gif
+
+anim 0180
+ delay 7
+ offset 54 113
+ frame data/chars/cj/38.gif
+
+anim 0181
+ delay 7
+ offset 54 110
+ frame data/chars/cj/39.gif
+ offset 54 110
+ frame data/chars/cj/40.gif
+ offset 54 110
+ frame data/chars/cj/41.gif
+ offset 54 110
+ frame data/chars/cj/42.gif
+
+anim respawn
+ delay 7
+ offset 50 113
+ frame data/chars/cj/43.gif
+ offset 44 111
+ frame data/chars/cj/44.gif
+
+anim select
+ delay 7
+ offset 52 114
+ frame data/chars/cj/45.gif
+
+anim attack200
+ delay 7
+ offset 42 107
+ frame data/chars/cj/46.gif
+ offset 42 107
+ frame data/chars/cj/47.gif
+
+anim attack210
+ delay 7
+ offset 73 108
+ frame data/chars/cj/48.gif
+ offset 81 108
+ frame data/chars/cj/49.gif
+ offset 81 108
+ frame data/chars/cj/50.gif
+ offset 81 108
+ frame data/chars/cj/51.gif
+ offset 81 108
+ frame data/chars/cj/52.gif
+ offset 81 108
+ frame data/chars/cj/53.gif
+ offset 81 108
+ frame data/chars/cj/54.gif
+
+anim attack220
+ delay 7
+ offset 42 107
+ frame data/chars/cj/55.gif
+ offset 52 107
+ frame data/chars/cj/56.gif
+ offset 57 107
+ frame data/chars/cj/57.gif
+ offset 67 107
+ frame data/chars/cj/58.gif
+ offset 84 107
+ frame data/chars/cj/59.gif
+ offset 90 107
+ frame data/chars/cj/60.gif
+ offset 85 107
+ frame data/chars/cj/61.gif
+
+anim attack230
+ delay 7
+ offset 40 107
+ frame data/chars/cj/62.gif
+ offset 38 107
+ frame data/chars/cj/63.gif
+ offset 36 107
+ frame data/chars/cj/64.gif
+
+anim attack240
+ delay 7
+ offset 44 111
+ frame data/chars/cj/65.gif
+ offset 40 115
+ frame data/chars/cj/66.gif
+ offset 51 111
+ frame data/chars/cj/67.gif
+ offset 61 107
+ frame data/chars/cj/68.gif
+ offset 61 107
+ frame data/chars/cj/69.gif
+ offset 53 109
+ frame data/chars/cj/70.gif
+
+anim attack250
+ delay 7
+ offset 38 108
+ frame data/chars/cj/71.gif
+ offset 38 107
+ frame data/chars/cj/72.gif
+ offset 38 107
+ frame data/chars/cj/73.gif
+ offset 38 107
+ frame data/chars/cj/74.gif
+ offset 38 107
+ frame data/chars/cj/75.gif
+ offset 38 108
+ frame data/chars/cj/76.gif
+ offset 32 107
+ frame data/chars/cj/77.gif
+
+anim attack400
+ delay 7
+ offset 47 107
+ frame data/chars/cj/78.gif
+ offset 47 107
+ frame data/chars/cj/79.gif
+
+anim attack410
+ delay 7
+ offset 48 107
+ frame data/chars/cj/80.gif
+ offset 48 107
+ frame data/chars/cj/81.gif
+ offset 48 107
+ frame data/chars/cj/82.gif
+ offset 48 107
+ frame data/chars/cj/83.gif
+
+anim attack420
+ delay 7
+ offset 48 107
+ frame data/chars/cj/84.gif
+ offset 48 107
+ frame data/chars/cj/85.gif
+ offset 48 107
+ frame data/chars/cj/86.gif
+ offset 48 112
+ frame data/chars/cj/87.gif
+ offset 48 111
+ frame data/chars/cj/88.gif
+
+anim attack430
+ delay 7
+ offset 58 107
+ frame data/chars/cj/89.gif
+ offset 59 107
+ frame data/chars/cj/90.gif
+
+anim attack440
+ delay 7
+ offset 48 107
+ frame data/chars/cj/91.gif
+ offset 48 107
+ frame data/chars/cj/92.gif
+ offset 48 107
+ frame data/chars/cj/93.gif
+ offset 48 107
+ frame data/chars/cj/94.gif
+
+anim attack450
+ delay 7
+ offset 48 107
+ frame data/chars/cj/95.gif
+ offset 48 107
+ frame data/chars/cj/96.gif
+ offset 48 107
+ frame data/chars/cj/97.gif
+ offset 48 107
+ frame data/chars/cj/98.gif
+ offset 48 107
+ frame data/chars/cj/99.gif
+ offset 48 107
+ frame data/chars/cj/100.gif
+
+anim jumpattack600
+ delay 7
+ offset 28 120
+ frame data/chars/cj/101.gif
+
+anim jumpattack610
+ delay 7
+ offset 51 136
+ frame data/chars/cj/102.gif
+ offset 49 135
+ frame data/chars/cj/103.gif
+
+anim jumpattack620
+ delay 7
+ offset 51 107
+ frame data/chars/cj/104.gif
+ offset 59 108
+ frame data/chars/cj/105.gif
+ offset 63 95
+ frame data/chars/cj/106.gif
+
+anim jumpattack630
+ delay 7
+ offset 38 119
+ frame data/chars/cj/107.gif
+ offset 51 123
+ frame data/chars/cj/108.gif
+
+anim jumpattack640
+ delay 7
+ offset 51 118
+ frame data/chars/cj/109.gif
+
+anim jumpattack650
+ delay 7
+ offset 36 116
+ frame data/chars/cj/110.gif
+ offset 26 108
+ frame data/chars/cj/111.gif
+ offset 19 107
+ frame data/chars/cj/112.gif
+
+anim freespecial1000
+ delay 7
+ offset 50 103
+ frame data/chars/cj/113.gif
+ offset 49 107
+ frame data/chars/cj/114.gif
+ offset 46 107
+ frame data/chars/cj/115.gif
+ offset 51 107
+ frame data/chars/cj/116.gif
+ offset 48 107
+ frame data/chars/cj/117.gif
+ offset 48 107
+ frame data/chars/cj/118.gif
+ offset 37 107
+ frame data/chars/cj/119.gif
+ offset 42 105
+ frame data/chars/cj/120.gif
+ offset 42 105
+ frame data/chars/cj/121.gif
+ offset 51 106
+ frame data/chars/cj/122.gif
+ offset 57 110
+ frame data/chars/cj/123.gif
+ offset 65 110
+ frame data/chars/cj/124.gif
+ offset 76 110
+ frame data/chars/cj/125.gif
+ offset 75 110
+ frame data/chars/cj/126.gif
+ offset 39 109
+ frame data/chars/cj/127.gif
+ offset 47 109
+ frame data/chars/cj/128.gif
+ offset 51 109
+ frame data/chars/cj/129.gif
+ offset 46 109
+ frame data/chars/cj/130.gif
+
+anim freespecial1010
+ delay 7
+ offset 40 107
+ frame data/chars/cj/131.gif
+ offset 40 107
+ frame data/chars/cj/132.gif
+ offset 40 107
+ frame data/chars/cj/133.gif
+
+anim freespecial1011
+ delay 7
+ offset 40 108
+ frame data/chars/cj/134.gif
+ offset 40 108
+ frame data/chars/cj/135.gif
+ offset 43 105
+ frame data/chars/cj/136.gif
+ offset 43 105
+ frame data/chars/cj/137.gif
+ offset 43 105
+ frame data/chars/cj/138.gif
+ offset 43 105
+ frame data/chars/cj/139.gif
+ offset 43 105
+ frame data/chars/cj/140.gif
+ offset 43 105
+ frame data/chars/cj/141.gif
+ offset 43 105
+ frame data/chars/cj/142.gif
+ offset 43 105
+ frame data/chars/cj/143.gif
+ offset 43 105
+ frame data/chars/cj/144.gif
+
+anim freespecial1020
+ delay 7
+ offset 73 111
+ frame data/chars/cj/145.gif
+ offset 73 111
+ frame data/chars/cj/146.gif
+ offset 73 115
+ frame data/chars/cj/147.gif
+
+anim freespecial1100
+ delay 7
+ offset 60 107
+ frame data/chars/cj/148.gif
+ offset 60 107
+ frame data/chars/cj/149.gif
+ offset 60 107
+ frame data/chars/cj/150.gif
+
+anim freespecial2000
+ delay 7
+ offset 52 113
+ frame data/chars/cj/151.gif
+ offset 74 128
+ frame data/chars/cj/152.gif
+ offset 88 125
+ frame data/chars/cj/153.gif
+
+anim freespecial2001
+ delay 7
+ offset 74 126
+ frame data/chars/cj/154.gif
+
+anim freespecial2010
+ delay 7
+ offset 74 126
+ frame data/chars/cj/155.gif
+ offset 74 126
+ frame data/chars/cj/156.gif
+ offset 74 126
+ frame data/chars/cj/157.gif
+ offset 74 126
+ frame data/chars/cj/158.gif
+ offset 74 126
+ frame data/chars/cj/159.gif
+ offset 74 126
+ frame data/chars/cj/160.gif
+ offset 74 126
+ frame data/chars/cj/161.gif
+ offset 74 126
+ frame data/chars/cj/162.gif
+ offset 74 126
+ frame data/chars/cj/163.gif
+ offset 74 126
+ frame data/chars/cj/164.gif
+ offset 74 126
+ frame data/chars/cj/165.gif
+ offset 74 126
+ frame data/chars/cj/166.gif
+
+anim freespecial2100
+ delay 7
+ offset -32 97
+ frame data/chars/cj/167.gif
+ offset 16 7
+ frame data/chars/cj/168.gif
+ offset 13 16
+ frame data/chars/cj/169.gif
+ offset 28 16
+ frame data/chars/cj/170.gif
+
+anim freespecial2101
+ delay 7
+ offset 5 2
+ frame data/chars/cj/171.gif
+ offset 1 6
+ frame data/chars/cj/172.gif
+
+anim freespecial2200
+ delay 7
+ offset 47 109
+ frame data/chars/cj/173.gif
+ offset 77 109
+ frame data/chars/cj/174.gif
+ offset 55 114
+ frame data/chars/cj/175.gif
+ offset 56 114
+ frame data/chars/cj/176.gif
+ offset 63 114
+ frame data/chars/cj/177.gif
+ offset 66 115
+ frame data/chars/cj/178.gif
+ offset 65 116
+ frame data/chars/cj/179.gif
+ offset 62 110
+ frame data/chars/cj/180.gif
+
+anim freespecial2300
+ delay 7
+ offset 74 105
+ frame data/chars/cj/181.gif
+ offset 70 127
+ frame data/chars/cj/182.gif
+ offset 48 132
+ frame data/chars/cj/183.gif
+ offset 50 110
+ frame data/chars/cj/184.gif
+ offset 48 110
+ frame data/chars/cj/185.gif
+ offset 77 110
+ frame data/chars/cj/186.gif
+ offset 78 110
+ frame data/chars/cj/187.gif
+ offset 47 110
+ frame data/chars/cj/188.gif
+ offset 48 109
+ frame data/chars/cj/189.gif
+ offset 65 107
+ frame data/chars/cj/190.gif
+ offset 59 106
+ frame data/chars/cj/191.gif
+ offset 44 133
+ frame data/chars/cj/192.gif
+ offset 78 109
+ frame data/chars/cj/193.gif
+ offset 52 108
+ frame data/chars/cj/194.gif
+ offset 54 108
+ frame data/chars/cj/195.gif
+ offset 54 127
+ frame data/chars/cj/196.gif
+ offset 54 127
+ frame data/chars/cj/197.gif
+ offset 55 127
+ frame data/chars/cj/198.gif
+
+anim freespecial3000
+ delay 7
+ offset 50 107
+ frame data/chars/cj/199.gif
+ offset 50 107
+ frame data/chars/cj/200.gif
+ offset 50 107
+ frame data/chars/cj/201.gif
+ offset 50 107
+ frame data/chars/cj/202.gif
+ offset 50 107
+ frame data/chars/cj/203.gif
+
+anim freespecial3100
+ delay 7
+ offset 54 110
+ frame data/chars/cj/204.gif
+ offset 54 110
+ frame data/chars/cj/205.gif
+ offset 50 108
+ frame data/chars/cj/206.gif
+ offset 50 108
+ frame data/chars/cj/207.gif
+ offset 44 110
+ frame data/chars/cj/208.gif
+ offset 40 109
+ frame data/chars/cj/209.gif
+ offset 43 107
+ frame data/chars/cj/210.gif
+ offset 42 109
+ frame data/chars/cj/211.gif
+
+anim freespecial3200
+ delay 7
+ offset 48 110
+ frame data/chars/cj/212.gif
+ offset 48 110
+ frame data/chars/cj/213.gif
+ offset 48 110
+ frame data/chars/cj/214.gif
+ offset 48 110
+ frame data/chars/cj/215.gif
+ offset 48 110
+ frame data/chars/cj/216.gif
+
+anim freespecial3201
+ delay 7
+ offset 46 104
+ frame data/chars/cj/217.gif
+ offset 46 99
+ frame data/chars/cj/218.gif
+ offset 46 100
+ frame data/chars/cj/219.gif
+ offset 46 98
+ frame data/chars/cj/220.gif
+ offset 46 99
+ frame data/chars/cj/221.gif
+ offset 44 103
+ frame data/chars/cj/222.gif
+ offset 45 99
+ frame data/chars/cj/223.gif
+ offset 46 100
+ frame data/chars/cj/224.gif
+ offset 46 100
+ frame data/chars/cj/225.gif
+ offset 46 99
+ frame data/chars/cj/226.gif
+
+anim freespecial3210
+ delay 7
+ offset 65 126
+ frame data/chars/cj/227.gif
+ offset 63 126
+ frame data/chars/cj/228.gif
+ offset 60 126
+ frame data/chars/cj/229.gif
+ offset 60 126
+ frame data/chars/cj/230.gif
+
+anim freespecial4000
+ delay 7
+ offset 45 105
+ frame data/chars/cj/231.gif
+ offset 48 112
+ frame data/chars/cj/232.gif
+ offset 48 112
+ frame data/chars/cj/233.gif
+ offset 48 112
+ frame data/chars/cj/234.gif
+ offset 48 112
+ frame data/chars/cj/235.gif
+ offset 46 107
+ frame data/chars/cj/236.gif
+ offset 53 107
+ frame data/chars/cj/237.gif
+ offset 56 107
+ frame data/chars/cj/238.gif
+ offset 53 107
+ frame data/chars/cj/239.gif
+ offset 56 107
+ frame data/chars/cj/240.gif
+ offset 56 107
+ frame data/chars/cj/241.gif
+ offset 57 106
+ frame data/chars/cj/242.gif
+
+anim pain5000
+ delay 7
+ offset 37 111
+ frame data/chars/cj/243.gif
+ offset 50 111
+ frame data/chars/cj/244.gif
+ offset 60 109
+ frame data/chars/cj/245.gif
+
+anim pain5001
+ delay 7
+ offset 28 50
+ frame data/chars/cj/246.gif
+ offset 39 50
+ frame data/chars/cj/247.gif
+ offset 47 51
+ frame data/chars/cj/248.gif
+
+anim pain5002
+ delay 7
+ offset 32 15
+ frame data/chars/cj/249.gif
+ offset 22 16
+ frame data/chars/cj/250.gif
+ offset 16 26
+ frame data/chars/cj/251.gif
+
+anim pain5010
+ delay 7
+ offset 36 111
+ frame data/chars/cj/252.gif
+ offset 42 111
+ frame data/chars/cj/253.gif
+ offset 63 109
+ frame data/chars/cj/254.gif
+
+anim pain5011
+ delay 7
+ offset 24 48
+ frame data/chars/cj/255.gif
+ offset 27 52
+ frame data/chars/cj/256.gif
+ offset 41 51
+ frame data/chars/cj/257.gif
+
+anim pain5012
+ delay 7
+ offset 46 19
+ frame data/chars/cj/258.gif
+ offset 55 27
+ frame data/chars/cj/259.gif
+ offset 69 32
+ frame data/chars/cj/260.gif
+
+anim pain5020
+ delay 7
+ offset 59 98
+ frame data/chars/cj/261.gif
+ offset 89 97
+ frame data/chars/cj/262.gif
+ offset 88 93
+ frame data/chars/cj/263.gif
+
+anim fall5030
+ delay 7
+ offset 55 112
+ frame data/chars/cj/264.gif
+ offset 78 107
+ frame data/chars/cj/265.gif
+ offset 78 107
+ frame data/chars/cj/266.gif
+ offset 81 99
+ frame data/chars/cj/267.gif
+ offset 52 120
+ frame data/chars/cj/268.gif
+ offset 48 129
+ frame data/chars/cj/269.gif
+
+anim fall5031
+ delay 7
+ offset 51 54
+ frame data/chars/cj/270.gif
+ offset 74 45
+ frame data/chars/cj/271.gif
+ offset 72 45
+ frame data/chars/cj/272.gif
+ offset 75 43
+ frame data/chars/cj/273.gif
+ offset 45 76
+ frame data/chars/cj/274.gif
+ offset 41 83
+ frame data/chars/cj/275.gif
+
+anim fall5032
+ delay 7
+ offset 35 21
+ frame data/chars/cj/276.gif
+ offset 42 21
+ frame data/chars/cj/277.gif
+ offset 41 21
+ frame data/chars/cj/278.gif
+ offset 36 45
+ frame data/chars/cj/279.gif
+ offset 20 107
+ frame data/chars/cj/280.gif
+ offset 45 121
+ frame data/chars/cj/281.gif
+
+anim fall5040
+ delay 7
+ offset 61 79
+ frame data/chars/cj/282.gif
+ offset 69 54
+ frame data/chars/cj/283.gif
+ offset 61 79
+ frame data/chars/cj/284.gif
+
+anim fall5041
+ delay 7
+ offset 60 76
+ frame data/chars/cj/285.gif
+ offset 67 49
+ frame data/chars/cj/286.gif
+ offset 60 76
+ frame data/chars/cj/287.gif
+
+anim fall5042
+ delay 7
+ offset 39 52
+ frame data/chars/cj/288.gif
+ offset 26 50
+ frame data/chars/cj/289.gif
+ offset 38 52
+ frame data/chars/cj/290.gif
+
+anim fall5060
+ delay 7
+ offset 42 127
+ frame data/chars/cj/291.gif
+ offset 50 129
+ frame data/chars/cj/292.gif
+
+anim fall5061
+ delay 7
+ offset 36 66
+ frame data/chars/cj/293.gif
+ offset 42 82
+ frame data/chars/cj/294.gif
+
+anim fall5062
+ delay 7
+ offset 31 25
+ frame data/chars/cj/295.gif
+ offset 46 121
+ frame data/chars/cj/296.gif
+
+anim fall5070
+ delay 7
+ offset 42 129
+ frame data/chars/cj/297.gif
+ offset 69 141
+ frame data/chars/cj/298.gif
+ offset 87 80
+ frame data/chars/cj/299.gif
+
+anim fall5071
+ delay 7
+ offset 41 53
+ frame data/chars/cj/300.gif
+ offset 65 73
+ frame data/chars/cj/301.gif
+ offset 86 41
+ frame data/chars/cj/302.gif
+
+anim fall5072
+ delay 7
+ offset 39 14
+ frame data/chars/cj/303.gif
+ offset 91 41
+ frame data/chars/cj/304.gif
+ offset 131 39
+ frame data/chars/cj/305.gif
+
+anim freespecial4010
+ delay 7
+ offset 73 121
+ frame data/chars/cj/306.gif
+ offset 73 121
+ frame data/chars/cj/307.gif
+ offset 73 121
+ frame data/chars/cj/308.gif
+ offset 73 121
+ frame data/chars/cj/309.gif
+ offset 73 121
+ frame data/chars/cj/310.gif
+ offset 73 121
+ frame data/chars/cj/311.gif
+ offset 73 121
+ frame data/chars/cj/312.gif
+ offset 73 121
+ frame data/chars/cj/313.gif
+ offset 73 121
+ frame data/chars/cj/314.gif
+ offset 73 121
+ frame data/chars/cj/315.gif
+ offset 73 121
+ frame data/chars/cj/316.gif
+ offset 73 121
+ frame data/chars/cj/317.gif
+ offset 73 121
+ frame data/chars/cj/318.gif
+ offset 73 121
+ frame data/chars/cj/319.gif
+ offset 73 121
+ frame data/chars/cj/320.gif
+
+anim freespecial4011
+ delay 7
+ offset 72 105
+ frame data/chars/cj/321.gif
+ offset 72 105
+ frame data/chars/cj/322.gif
+ offset 72 105
+ frame data/chars/cj/323.gif
+ offset 72 105
+ frame data/chars/cj/324.gif
+ offset 72 105
+ frame data/chars/cj/325.gif
+ offset 72 105
+ frame data/chars/cj/326.gif
+ offset 72 105
+ frame data/chars/cj/327.gif
+ offset 72 105
+ frame data/chars/cj/328.gif
+ offset 72 105
+ frame data/chars/cj/329.gif
+ offset 72 105
+ frame data/chars/cj/330.gif
+ offset 72 105
+ frame data/chars/cj/331.gif
+ offset 72 105
+ frame data/chars/cj/332.gif
+ offset 72 105
+ frame data/chars/cj/333.gif
+ offset 72 105
+ frame data/chars/cj/334.gif
+ offset 72 105
+ frame data/chars/cj/335.gif
+
+anim freespecial4012
+ delay 7
+ offset 103 75
+ frame data/chars/cj/336.gif
+ offset 103 75
+ frame data/chars/cj/337.gif
+ offset 103 75
+ frame data/chars/cj/338.gif
+ offset 103 75
+ frame data/chars/cj/339.gif
+ offset 103 75
+ frame data/chars/cj/340.gif
+ offset 103 75
+ frame data/chars/cj/341.gif
+ offset 103 75
+ frame data/chars/cj/342.gif
+ offset 103 75
+ frame data/chars/cj/343.gif
+ offset 103 75
+ frame data/chars/cj/344.gif
+ offset 103 75
+ frame data/chars/cj/345.gif
+ offset 103 75
+ frame data/chars/cj/346.gif
+ offset 103 75
+ frame data/chars/cj/347.gif
+ offset 103 75
+ frame data/chars/cj/348.gif
+ offset 103 75
+ frame data/chars/cj/349.gif
+ offset 103 75
+ frame data/chars/cj/350.gif
+
+anim freespecial4013
+ delay 7
+ offset 125 72
+ frame data/chars/cj/351.gif
+ offset 125 72
+ frame data/chars/cj/352.gif
+ offset 125 72
+ frame data/chars/cj/353.gif
+ offset 125 72
+ frame data/chars/cj/354.gif
+ offset 125 72
+ frame data/chars/cj/355.gif
+ offset 125 72
+ frame data/chars/cj/356.gif
+ offset 125 72
+ frame data/chars/cj/357.gif
+ offset 125 72
+ frame data/chars/cj/358.gif
+ offset 125 72
+ frame data/chars/cj/359.gif
+ offset 125 72
+ frame data/chars/cj/360.gif
+ offset 125 72
+ frame data/chars/cj/361.gif
+ offset 125 72
+ frame data/chars/cj/362.gif
+ offset 125 72
+ frame data/chars/cj/363.gif
+ offset 125 72
+ frame data/chars/cj/364.gif
+ offset 125 72
+ frame data/chars/cj/365.gif
+
+anim freespecial4020
+ delay 7
+ offset 196 35
+ frame data/chars/cj/366.gif
+ offset 196 35
+ frame data/chars/cj/367.gif
+ offset 196 35
+ frame data/chars/cj/368.gif
+ offset 196 35
+ frame data/chars/cj/369.gif
+ offset 196 35
+ frame data/chars/cj/370.gif
+ offset 196 35
+ frame data/chars/cj/371.gif
+ offset 196 35
+ frame data/chars/cj/372.gif
+
+anim 7000
+ delay 7
+ offset 87 38
+ frame data/chars/cj/373.gif
+ offset 87 38
+ frame data/chars/cj/374.gif
+ offset 87 38
+ frame data/chars/cj/375.gif
+ offset 87 38
+ frame data/chars/cj/376.gif
+ offset 87 38
+ frame data/chars/cj/377.gif
+
+anim 7003
+ delay 7
+ offset 323 243
+ frame data/chars/cj/378.gif
+ offset 323 243
+ frame data/chars/cj/379.gif
+ offset 323 243
+ frame data/chars/cj/380.gif
+ offset 323 243
+ frame data/chars/cj/381.gif
+ offset 323 243
+ frame data/chars/cj/382.gif
+ offset 323 243
+ frame data/chars/cj/383.gif
+ offset 323 243
+ frame data/chars/cj/384.gif
+ offset 323 243
+ frame data/chars/cj/385.gif
+ offset 323 243
+ frame data/chars/cj/386.gif
+ offset 323 243
+ frame data/chars/cj/387.gif
+ offset 323 243
+ frame data/chars/cj/388.gif
+ offset 323 243
+ frame data/chars/cj/389.gif
+ offset 323 243
+ frame data/chars/cj/390.gif
+ offset 323 243
+ frame data/chars/cj/391.gif
+ offset 323 243
+ frame data/chars/cj/392.gif
+ offset 323 243
+ frame data/chars/cj/393.gif
+ offset 320 239
+ frame data/chars/cj/394.gif
+ offset 320 239
+ frame data/chars/cj/395.gif
+ offset 321 244
+ frame data/chars/cj/396.gif
+ offset 321 244
+ frame data/chars/cj/397.gif
+ offset 321 244
+ frame data/chars/cj/398.gif
+ offset 321 244
+ frame data/chars/cj/399.gif
+ offset 321 244
+ frame data/chars/cj/400.gif
+ offset 321 244
+ frame data/chars/cj/401.gif
+ offset 321 244
+ frame data/chars/cj/402.gif
+ offset 321 244
+ frame data/chars/cj/403.gif
+ offset 321 244
+ frame data/chars/cj/404.gif
+ offset 321 244
+ frame data/chars/cj/405.gif
+ offset 321 244
+ frame data/chars/cj/406.gif
+ offset 321 244
+ frame data/chars/cj/407.gif
+ offset 321 244
+ frame data/chars/cj/408.gif
+ offset 321 244
+ frame data/chars/cj/409.gif
+ offset 321 244
+ frame data/chars/cj/410.gif
+ offset 321 244
+ frame data/chars/cj/411.gif
+ offset 321 244
+ frame data/chars/cj/412.gif
+ offset 321 244
+ frame data/chars/cj/413.gif
+ offset 319 239
+ frame data/chars/cj/414.gif
+ offset 319 239
+ frame data/chars/cj/415.gif
+ offset 319 239
+ frame data/chars/cj/416.gif
+ offset 319 239
+ frame data/chars/cj/417.gif
+ offset 319 239
+ frame data/chars/cj/418.gif
+ offset 319 239
+ frame data/chars/cj/419.gif
+ offset 319 239
+ frame data/chars/cj/420.gif
+ offset 319 239
+ frame data/chars/cj/421.gif
+ offset 319 239
+ frame data/chars/cj/422.gif
+
+anim 7010
+ delay 7
+ offset 75 71
+ frame data/chars/cj/423.gif
+ offset 75 71
+ frame data/chars/cj/424.gif
+ offset 75 71
+ frame data/chars/cj/425.gif
+ offset 75 71
+ frame data/chars/cj/426.gif
+ offset 75 71
+ frame data/chars/cj/427.gif
+ offset 75 71
+ frame data/chars/cj/428.gif
+ offset 75 71
+ frame data/chars/cj/429.gif
+ offset 75 71
+ frame data/chars/cj/430.gif
+ offset 75 71
+ frame data/chars/cj/431.gif
+ offset 75 71
+ frame data/chars/cj/432.gif
+ offset 75 71
+ frame data/chars/cj/433.gif
+ offset 75 71
+ frame data/chars/cj/434.gif
+
+anim 7030
+ delay 7
+ offset 95 109
+ frame data/chars/cj/435.gif
+ offset 95 112
+ frame data/chars/cj/436.gif
+ offset 95 113
+ frame data/chars/cj/437.gif
+ offset 95 113
+ frame data/chars/cj/438.gif
+ offset 95 112
+ frame data/chars/cj/439.gif
+ offset 95 110
+ frame data/chars/cj/440.gif
+
+anim 7031
+ delay 7
+ offset 41 111
+ frame data/chars/cj/441.gif
+ offset 41 111
+ frame data/chars/cj/442.gif
+ offset 41 111
+ frame data/chars/cj/443.gif
+
+anim 7040
+ delay 7
+ offset 59 129
+ frame data/chars/cj/444.gif
+
+anim 7041
+ delay 7
+ offset 49 107
+ frame data/chars/cj/445.gif
+ offset 49 107
+ frame data/chars/cj/446.gif
+ offset 49 107
+ frame data/chars/cj/447.gif
+
+anim 7050
+ delay 7
+ offset 49 104
+ frame data/chars/cj/448.gif
+ offset 49 138
+ frame data/chars/cj/449.gif
+ offset 46 138
+ frame data/chars/cj/450.gif
+ offset 45 104
+ frame data/chars/cj/451.gif
+ offset 47 103
+ frame data/chars/cj/452.gif
+ offset 47 102
+ frame data/chars/cj/453.gif
+ offset 49 104
+ frame data/chars/cj/454.gif
+ offset 49 105
+ frame data/chars/cj/455.gif
+ offset 43 130
+ frame data/chars/cj/456.gif
+ offset 45 102
+ frame data/chars/cj/457.gif
+
+anim 7051
+ delay 7
+ offset 76 133
+ frame data/chars/cj/458.gif
+ offset 73 132
+ frame data/chars/cj/459.gif
+ offset 72 132
+ frame data/chars/cj/460.gif
+ offset 71 132
+ frame data/chars/cj/461.gif
+ offset 74 133
+ frame data/chars/cj/462.gif
+
+anim 7060
+ delay 7
+ offset 49 111
+ frame data/chars/cj/463.gif
+ offset 49 104
+ frame data/chars/cj/464.gif
+ offset 49 103
+ frame data/chars/cj/465.gif
+ offset 49 103
+ frame data/chars/cj/466.gif
+ offset 48 103
+ frame data/chars/cj/467.gif
+ offset 50 102
+ frame data/chars/cj/468.gif
+ offset 49 104
+ frame data/chars/cj/469.gif
+ offset 49 105
+ frame data/chars/cj/470.gif
+ offset 44 103
+ frame data/chars/cj/471.gif
+ offset 46 113
+ frame data/chars/cj/472.gif
+
+anim 7061
+ delay 7
+ offset 30 111
+ frame data/chars/cj/473.gif
+ offset 30 111
+ frame data/chars/cj/474.gif
+ offset 30 111
+ frame data/chars/cj/475.gif
+
+anim 7065
+ delay 7
+ offset 77 107
+ frame data/chars/cj/476.gif
+
+anim 7070
+ delay 7
+ offset 211 159
+ frame data/chars/cj/477.gif
+ offset 211 159
+ frame data/chars/cj/478.gif
+ offset 211 159
+ frame data/chars/cj/479.gif
+ offset 211 159
+ frame data/chars/cj/480.gif
+ offset 211 159
+ frame data/chars/cj/481.gif
+ offset 211 159
+ frame data/chars/cj/482.gif
+ offset 211 159
+ frame data/chars/cj/483.gif
+ offset 211 159
+ frame data/chars/cj/484.gif
+ offset 211 159
+ frame data/chars/cj/485.gif
+ offset 211 159
+ frame data/chars/cj/486.gif
+ offset 211 159
+ frame data/chars/cj/487.gif
+ offset 211 159
+ frame data/chars/cj/488.gif
+ offset 211 159
+ frame data/chars/cj/489.gif
+ offset 211 159
+ frame data/chars/cj/490.gif
+ offset 211 159
+ frame data/chars/cj/491.gif
+ offset 211 159
+ frame data/chars/cj/492.gif
+ offset 211 159
+ frame data/chars/cj/493.gif
+ offset 211 159
+ frame data/chars/cj/494.gif
+ offset 211 159
+ frame data/chars/cj/495.gif
+
+anim 7141
+ delay 7
+ offset 102 129
+ frame data/chars/cj/496.gif
+ offset 102 129
+ frame data/chars/cj/497.gif
+ offset 102 129
+ frame data/chars/cj/498.gif
+ offset 102 129
+ frame data/chars/cj/499.gif
+ offset 102 129
+ frame data/chars/cj/500.gif
+ offset 102 129
+ frame data/chars/cj/501.gif
+ offset 102 129
+ frame data/chars/cj/502.gif
+ offset 102 129
+ frame data/chars/cj/503.gif
+ offset 102 129
+ frame data/chars/cj/504.gif
+ offset 102 129
+ frame data/chars/cj/505.gif
+ offset 102 129
+ frame data/chars/cj/506.gif
+ offset 102 129
+ frame data/chars/cj/507.gif
+ offset 102 129
+ frame data/chars/cj/508.gif
+ offset 102 129
+ frame data/chars/cj/509.gif
+ offset 102 129
+ frame data/chars/cj/510.gif
+ offset 102 129
+ frame data/chars/cj/511.gif
+ offset 102 129
+ frame data/chars/cj/512.gif
+ offset 102 129
+ frame data/chars/cj/513.gif
+ offset 102 129
+ frame data/chars/cj/514.gif
+ offset 102 129
+ frame data/chars/cj/515.gif
+ offset 102 129
+ frame data/chars/cj/516.gif
+ offset 102 129
+ frame data/chars/cj/517.gif
+ offset 102 129
+ frame data/chars/cj/518.gif
+ offset 102 129
+ frame data/chars/cj/519.gif
+ offset 102 129
+ frame data/chars/cj/520.gif
+ offset 102 129
+ frame data/chars/cj/521.gif
+ offset 102 129
+ frame data/chars/cj/522.gif
+ offset 102 129
+ frame data/chars/cj/523.gif
+ offset 102 129
+ frame data/chars/cj/524.gif
+
+anim 7150
+ delay 7
+ offset 0 0
+ frame data/chars/cj/525.gif
+ offset 0 0
+ frame data/chars/cj/526.gif
+ offset 0 0
+ frame data/chars/cj/527.gif
+ offset 0 0
+ frame data/chars/cj/528.gif
+ offset 0 0
+ frame data/chars/cj/529.gif
+ offset 0 0
+ frame data/chars/cj/530.gif
+ offset 0 0
+ frame data/chars/cj/531.gif
+ offset 0 0
+ frame data/chars/cj/532.gif
+
+anim 7151
+ delay 7
+ offset 27 16
+ frame data/chars/cj/533.gif
+ offset 27 16
+ frame data/chars/cj/534.gif
+ offset 27 16
+ frame data/chars/cj/535.gif
+
+anim 7180
+ delay 7
+ offset 0 0
+ frame data/chars/cj/536.gif
+ offset 0 0
+ frame data/chars/cj/537.gif
+ offset 0 0
+ frame data/chars/cj/538.gif
+ offset 0 0
+ frame data/chars/cj/539.gif
+ offset 0 0
+ frame data/chars/cj/540.gif
+ offset 0 0
+ frame data/chars/cj/541.gif
+ offset 0 0
+ frame data/chars/cj/542.gif
+ offset 0 0
+ frame data/chars/cj/543.gif
+
+anim 7190
+ delay 7
+ offset 0 0
+ frame data/chars/cj/544.gif
+ offset 0 0
+ frame data/chars/cj/545.gif
+ offset 0 0
+ frame data/chars/cj/546.gif
+ offset 0 0
+ frame data/chars/cj/547.gif
+ offset 0 0
+ frame data/chars/cj/548.gif
+ offset 0 0
+ frame data/chars/cj/549.gif
+ offset 0 0
+ frame data/chars/cj/550.gif
+ offset 0 0
+ frame data/chars/cj/551.gif
+ offset 0 0
+ frame data/chars/cj/552.gif
+ offset 0 0
+ frame data/chars/cj/553.gif
+ offset 0 0
+ frame data/chars/cj/554.gif
+ offset 0 0
+ frame data/chars/cj/555.gif
+ offset 0 0
+ frame data/chars/cj/556.gif
+ offset 0 0
+ frame data/chars/cj/557.gif
+ offset 0 0
+ frame data/chars/cj/558.gif

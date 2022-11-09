@@ -4,7 +4,7 @@ type player
 speed 10
 shadow 3
 palette none
-
+running 14 4 2 0 1
 
 
 
@@ -13,7 +13,7 @@ anim	attack1
 	delay	7
 	offset	33 99
 	frame	data/chars/balrog/74.gif
-	attack	89 13 32 13 5 0 1 0 0 0
+	attack	58 1 68 56 5 0 1 0 0 0
 	offset	33 99
 	frame	data/chars/balrog/75.gif
 		
@@ -23,7 +23,7 @@ anim	attack2
 	frame	data/chars/balrog/103.gif
 	offset	29 89
 	frame	data/chars/balrog/104.gif
-	attack	102 0 35 23 7 0 1 0 0 0
+	attack	86 3 49 24 7 0 1 0 0 0
 	offset	28 83
 	frame	data/chars/balrog/105.gif
 	offset	28 88
@@ -42,7 +42,7 @@ anim	attack3
 	frame	data/chars/balrog/76.gif
 	offset	32 95
 	frame	data/chars/balrog/77.gif
-	attack	91 24 20 33 6 0 1 0 0 0
+	attack	93 18 15 42 6 0 1 0 0 0
 	offset	30 95
 	delay	1
 	frame	data/chars/balrog/78.gif

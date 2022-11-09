@@ -1,0 +1,19 @@
+name  titlesprite
+health	 1
+nolife  1
+noatflash 1
+type panel
+shadow 0
+setlayer   -1
+
+anim	idle
+	loop	1 1
+	delay	10
+	offset	100 100
+	@cmd	changeentityproperty getlocalvar("self") "direction" 1
+	frame	data/chars/misc/titlesprite/canibeatemup-title.png
+	@cmd	changeentityproperty getlocalvar("self") "setlayer" 2000
+	frame	data/chars/misc/titlesprite/canibeatemup-title.png
+		
+#|edited by openBor Stats v 0.67
+		

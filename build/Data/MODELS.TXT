@@ -64,3 +64,4 @@ know	Crab		data/chars/crab/crab.txt
 know	Lobster		data/chars/Lobster/Lobster.txt
 load MikeTyson data/chars/balrog/balrog.txt
 know Zoro data/chars/Zoro/Zoro.txt
+Know titlesprite Data/CHARS/misc/titlesprite/titlesprite.txt

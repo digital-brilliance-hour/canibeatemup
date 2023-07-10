@@ -1,0 +1,36 @@
+    name  titleanimation
+health	 1
+type     panel
+speed    10
+shadow       0
+setlayer    -2000
+facing 1
+
+anim	idle
+	loop	1 1
+	delay	10
+	offset	330	120
+	@cmd	changeentityproperty getlocalvar("self") "direction" 1
+	frame	data/chars/misc/titleanimation/frame_00_delay-0.1s.png
+	@cmd	changeentityproperty getlocalvar("self") "setlayer" -2000
+	frame	data/chars/misc/titleanimation/frame_00_delay-0.1s.png
+	frame	data/chars/misc/titleanimation/frame_01_delay-0.1s.png
+	frame	data/chars/misc/titleanimation/frame_02_delay-0.1s.png
+	frame	data/chars/misc/titleanimation/frame_03_delay-0.1s.png
+	frame	data/chars/misc/titleanimation/frame_04_delay-0.1s.png
+	frame	data/chars/misc/titleanimation/frame_05_delay-0.1s.png
+	frame	data/chars/misc/titleanimation/frame_06_delay-0.1s.png
+	frame	data/chars/misc/titleanimation/frame_07_delay-0.1s.png
+	frame	data/chars/misc/titleanimation/frame_08_delay-0.1s.png
+	frame	data/chars/misc/titleanimation/frame_09_delay-0.1s.png
+	frame	data/chars/misc/titleanimation/frame_10_delay-0.1s.png
+	frame	data/chars/misc/titleanimation/frame_11_delay-0.1s.png
+	frame	data/chars/misc/titleanimation/frame_12_delay-0.1s.png
+	frame	data/chars/misc/titleanimation/frame_13_delay-0.1s.png
+	frame	data/chars/misc/titleanimation/frame_14_delay-0.1s.png
+	frame	data/chars/misc/titleanimation/frame_15_delay-0.1s.png
+		
+		
+		
+#|edited by openBor Stats v 0.67
+		

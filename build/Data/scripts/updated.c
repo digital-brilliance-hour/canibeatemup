@@ -60,7 +60,7 @@ void mainLoop()
              setspawnentry("coords", 313,152,-1000); // set the position of the entity       
              subent=spawn();  //  spawn the entity        
              setglobalvar("bckground", subent);        
-             changeentityproperty(subent, "position", 313,102,-1000); //for safe, set again the position               
+             changeentityproperty(subent, "position", 313,112,-1000); //for safe, set again the position               
              titlecounter = setlocalvar("titlecounter",1); // turn on the variable, blocking a new spawn to be made      
        }
     
@@ -74,7 +74,7 @@ void mainLoop()
        void mainTitle;
         
        mainTitle = Title1;      
-       drawsprite(mainTitle, 0, 0, -2);      
+       drawsprite(mainTitle, 60, 0, -2);      
        changedrawmethod(NULL(), "alpha", 0);
     
   }

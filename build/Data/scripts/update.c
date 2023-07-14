@@ -20,7 +20,7 @@ void main()
     if (openborvariant("in_titlescreen")) {
       int T = getglobalvar("TitleMusic");
       if(T != 1) {
-        void bg = "data/music/title.bor";
+        void bg = "data/music/menu.ogg";
         playmusic(bg, 1);
         setglobalvar("TitleMusic", 1);
       }
@@ -47,9 +47,8 @@ void oncreate()
     setglobalvar("Load", C);
 
     setindexedvar(1, 0);
-       void Title1;    
-    void Title1;    
-    void Title1;    
+       
+    void Title1;   
     void Title2;
 
     Title1 = loadsprite("data/chars/misc/titlesprite/canibeatemup-title.png"); 

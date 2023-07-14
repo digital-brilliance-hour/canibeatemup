@@ -11,6 +11,7 @@ anim	idle
 	delay	10
 	offset	330	120
 	@cmd	changeentityproperty getlocalvar("self") "direction" 1
+	drawmethod 320 320
 	frame	data/chars/misc/titleanimation/frame_00_delay-0.1s.png
 	@cmd	changeentityproperty getlocalvar("self") "setlayer" -2000
 	frame	data/chars/misc/titleanimation/frame_00_delay-0.1s.png
